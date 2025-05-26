@@ -205,8 +205,17 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Red Hat Summit](https://www.redhat.com/en/summit)
   > Date: 19th - 22nd May || Mode: In-person || Location: Boston, Massachusetts - USA.
 
+- [Opensips Summit](https://www.opensips.org/events/Summit-2025Amsterdam/)
+  > Date: 27th - 29th May || Mode: In-person || Location: Amsterdam, Netherlands.
+
 - [PyCon Italia](https://2025.pycon.it/en)
   > Date: 28th - 31st May || Mode: In-person || Location: Bologna, Italy.
+
+- [Open Source North](https://opensourcenorth.com/)
+  > Date: 29th May || Mode: In-person || Location: St. Paul, Minesota - USA.
+
+- [T-Dose](https://t-dose.org/2025/)
+  > Date: 31st May - 1st June || Mode: In-person || Location: Geldrop, Netherlands.
 
 </details>
 
@@ -214,16 +223,25 @@ The calendar is automatically updated daily, ensuring you always have the latest
  <summary><h2> June :sparkles: </h2></summary>
 
 - [Berlin, PHP Conference](https://phpconference.com/berlin-en/)
-  > Date:June 2 – 6, 2025 || Mode: In-person or Online || Location: Berlin,Germany
+  > Date: 2nd – 6th June || Mode: In-person or Online || Location: Berlin,Germany
 
 - [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/)
-  > Date: 3rd - 4th June 2025 || Mode: In-person || Location: Bengaluru, India.
+  > Date: 3rd - 4th June || Mode: In-person || Location: Bengaluru, India.
+
+- [Community Over Code](https://eu.communityovercode.org/)
+  > Date: 3rd - 5th June || Mode: In-person || Location: Bratislava, Slovakia.
+
+- [PyTorch Day China](https://www.lfasiallc.com/pytorch-day-china/)
+  > Date: 7th June || Mode: In-person || Location: Beijing, China.
 
 - [KubeCon + CloudNativeCon China](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/)
   > Date: 10th - 11th June || Mode: In-person || Location: Hong Kong, China
 
 - [POSETTE, An Event for Postgres](https://posetteconf.com/2025/)
   > Date: 10th - 12th June || Mode: Virtual || Location: Online
+
+- [React Summit](https://reactsummit.com/?_gl=1*xe57sq*_gcl_aw*R0NMLjE3NDgyMjMwNDEuQ2owS0NRandfOHJCQmhDRkFSSXNBSnJjOXlCd2lnOU04YnZGX3lXWndZR0Vud0liNlhuMVZtaHVyVFNtY2VOdXo0bnRWeXYxa24zekIwMGFBcmxZRUFMd193Y0I.*_gcl_au*NDIxNzg1MzI3LjE3NDgyMjMwNDEuNTY0NjkyNDIwLjE3NDgyMjMwNDIuMTc0ODIyMzA0MQ..)
+  > Date: 13th & 17th June || Mode: In-person || Location: Amsterdam, Netherlands.
 
 - [Berlin Buzzwords](https://2025.berlinbuzzwords.de/)
   > Date: 15th - 17th June || Mode: In-person || Location: Berlin, Germany.
@@ -233,6 +251,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [UN Open Source Week 2025](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
   > Date: 16th - 20th June || Mode: In-person || Location: United Nations Headquarters, New York - USA.
+
+- [GitHub Summerfest](https://resources.github.com/github-summerfest-2025/)
+  > Date: 18th June || Mode: Virtual || Location: Online
 
 - [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/)
   > Date: 23rd - 25th June || Mode: In-person || Location: Denver, Colorado - USA.
@@ -310,11 +331,20 @@ in Cleveland, Ohio.
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
 
+- [PyCon Taiwan](https://tw.pycon.org/2025/en-us)
+  > Date: 5th - 7th September  || Mode: In Person || Location: National Science and Technology Museum (South Complex), Sanmin District, Kaohsiung City, Taiwan.
+
 - [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/)
   > Date: 8th - 10th September || Mode: In-person || Location: San Jose, CA USA
 
+- [DjangoCon US 2025](https://2025.djangocon.us/)
+  > Date: 8th - 12th September  || Mode: In Person || Location: Chicago, Illinois - USA.
+
 - [csv,conf,v9](https://csvconf.com/)
   > Date: 10th - 11th September || Mode: In-person || Location: Bologna, Italy
+
+- [PyCon Australia](https://2025.pycon.org.au/)
+  > Date: 12th - 16th September || Mode: In-person || Location: Pullman Melbourne, Australia.
 
 - [Posit::conf 2025](https://posit.co/conference/)
   > Date: 16th - 18th September || Mode: Hybrid || Location: Atlanta, USA
@@ -328,13 +358,11 @@ in Cleveland, Ohio.
 - [FlutterCon](https://fluttercon.dev)
   > Date: 24th - 26th September || Mode: In-person || Location: Berlin, Germany.
 
-- [DjangoCon US 2025](https://2025.djangocon.us/)
-  > Date: 8th - 12th September  || Mode: In Person || Location: Chicago, Illinois - USA.
-
-- [PyCon Taiwan](https://tw.pycon.org/2025/en-us)
-  > Date: 5th - 7th September  || Mode: In Person || Location: National Science and Technology Museum (South Complex), Sanmin District, Kaohsiung City, Taiwan.
+- [PyCon Japan](https://2025.pycon.jp/)
+  > Date: 26th - 27th September  || Mode: In Person || Location: International Conference Center Hiroshima, Japan.
 
 </details>
+
 
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
@@ -354,6 +382,9 @@ in Cleveland, Ohio.
 - [PyCon Thailand 2025](https://th.pycon.org/)
   > Date: 17th - 18th October || Mode: In-person || Location: Microsoft Thailand and Avani Sukhumvit Bangkok Hotel Bangkok, Thailand
 
+- [GitHub Universe](https://githubuniverse.com/)
+  > Date: 28th - 29th October || Mode: In-person || Location: San Francisco, California - USA.
+
 </details>
 
 <details open>
@@ -364,6 +395,9 @@ in Cleveland, Ohio.
 
 - [Open Forum Academy](https://symposium.openforumeurope.org/)
    > Date: 18th - 19th November || Mode: In-person || Location: Rio de Janeiro, Brazil.
+
+- [React Summit](https://reactsummit.com/?_gl=1*xe57sq*_gcl_aw*R0NMLjE3NDgyMjMwNDEuQ2owS0NRandfOHJCQmhDRkFSSXNBSnJjOXlCd2lnOU04YnZGX3lXWndZR0Vud0liNlhuMVZtaHVyVFNtY2VOdXo0bnRWeXYxa24zekIwMGFBcmxZRUFMd193Y0I.*_gcl_au*NDIxNzg1MzI3LjE3NDgyMjMwNDEuNTY0NjkyNDIwLjE3NDgyMjMwNDIuMTc0ODIyMzA0MQ..)
+  > Date: 18th & 21st November || Mode: In-person || Location: New York - USA.
 
 </details>
 
