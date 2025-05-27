@@ -370,6 +370,9 @@ in Cleveland, Ohio.
 - [PyCon Estonia](https://pycon.ee/)
   > Date: 2nd - 3rd October || Mode: In-person || Location: Tallinn, Estonia.
 
+- [PyCon Africa](https://za.pycon.org/)
+  > Date: Early October || Mode: Hybrid || Location: Johannesburg, South Africa.
+
 - [All Things Open](https://2025.allthingsopen.org/)
   > Date: 12th - 14th October || Mode: In-person || Location: Raleigh, NC USA.
 
