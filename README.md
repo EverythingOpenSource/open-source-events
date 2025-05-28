@@ -46,7 +46,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> January :sparkles: </h2></summary>
 
 - [Try! Swift x AI Singapore](https://www.tryswift.co/world/)
@@ -66,7 +66,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> February :sparkles: </h2></summary>
 
 - [FOSDEM](https://fosdem.org/2025/)
@@ -114,7 +114,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> March :sparkles: </h2></summary>
 
 - [SOSS Policy Summit - Open Source Security Foundation](https://events.linuxfoundation.org/soss-policy-summit-dc/)
@@ -152,7 +152,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> April :sparkles: </h2></summary>
 
 - [ArgoCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)
