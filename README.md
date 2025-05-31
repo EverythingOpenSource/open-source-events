@@ -405,6 +405,9 @@ in Cleveland, Ohio.
 - [React Summit](https://reactsummit.com/?_gl=1*xe57sq*_gcl_aw*R0NMLjE3NDgyMjMwNDEuQ2owS0NRandfOHJCQmhDRkFSSXNBSnJjOXlCd2lnOU04YnZGX3lXWndZR0Vud0liNlhuMVZtaHVyVFNtY2VOdXo0bnRWeXYxa24zekIwMGFBcmxZRUFMd193Y0I.*_gcl_au*NDIxNzg1MzI3LjE3NDgyMjMwNDEuNTY0NjkyNDIwLjE3NDgyMjMwNDIuMTc0ODIyMzA0MQ..)
   > Date: 18th & 21st November || Mode: In-person || Location: New York - USA.
 
+- [tiny ruby #{conf}](https://helsinkiruby.fi/tinyruby/)
+   > Date: 21st November || Mode: In-person || Location: Korjaamo Kino cinema in Helsinki, Finland.
+
 </details>
 
 <details open>
