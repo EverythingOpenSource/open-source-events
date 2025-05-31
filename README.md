@@ -395,7 +395,10 @@ in Cleveland, Ohio.
 
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
-  
+
+- [SeaGL](https://pretalx.seagl.org/2025/cfp)
+   > Date: 7th - 8th November || Mode: Hybrid || Location: Husky Union Building, University of Washington.
+
 - [KubeCon + CloudNativeCon North America](https://www.cncf.io/events/)
    > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, United States.
 
