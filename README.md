@@ -394,6 +394,9 @@ in Cleveland, Ohio.
 - [PyCon Thailand 2025](https://th.pycon.org/)
   > Date: 17th - 18th October || Mode: In-person || Location: Microsoft Thailand and Avani Sukhumvit Bangkok Hotel Bangkok, Thailand
 
+- [OpenFest 2025](https://www.openfest.org/2025/en/)
+  > Date: 18th - 19th October || Mode: In-person || Location: "John Atanasoff" forum, Sofia Tech Park, Sofia, Bulgaria
+
 - [GitHub Universe](https://githubuniverse.com/)
   > Date: 28th - 29th October || Mode: In-person || Location: San Francisco, California - USA.
 
