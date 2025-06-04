@@ -367,6 +367,9 @@ in Cleveland, Ohio.
 - [FlutterCon](https://fluttercon.dev)
   > Date: 24th - 26th September || Mode: In-person || Location: Berlin, Germany.
 
+- [PyBeach](https://2025.pybeach.org/)
+  > Date: 27th September  || Mode: In Person || Location: The Illusion Magic Lounge in Santa Monica, California.
+
 - [PyCon Japan](https://2025.pycon.jp/)
   > Date: 26th - 27th September  || Mode: In Person || Location: International Conference Center Hiroshima, Japan.
 
@@ -384,6 +387,9 @@ in Cleveland, Ohio.
 
 - [All Things Open](https://2025.allthingsopen.org/)
   > Date: 12th - 14th October || Mode: In-person || Location: Raleigh, NC USA.
+
+- [Pittsburgh TechFest 2025](https://www.pghtech.org/events/2025TechFest)
+   > Date: 24th October || Mode: In-person || Location: Tepper Building, Carnegie Mellon University, in Pittsburgh, Pennsylvania.
 
 - [Github Universe](https://githubuniverse.com/)
   > Date: 28th - 29th October || Mode: In-person || Location: not announced yet
