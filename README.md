@@ -228,9 +228,6 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/)
   > Date: 3rd - 4th June || Mode: In-person || Location: Bengaluru, India.
 
-- [Community Over Code](https://eu.communityovercode.org/)
-  > Date: 3rd - 5th June || Mode: In-person || Location: Bratislava, Slovakia.
-
 - [PyTorch Day China](https://www.lfasiallc.com/pytorch-day-china/)
   > Date: 7th June || Mode: In-person || Location: Beijing, China.
 
@@ -289,6 +286,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [GUADEC](https://events.gnome.org/event/259/)
   > Date: 24th - 29th July || Mode: In-person || Location: Brescia, Italy.
+
+- [Community Over Code Asia by the Apache Software Foundation](https://asia.communityovercode.org/)
+  > Date: 25th - 27th July || Mode: In-person || Location: Beijing, China.
 
 - [EUROPYTHON PRAGUE & REMOTE](https://ep2025.europython.eu/)
   > Date: 14th - 20th July  || Mode: In person , Remote || Location: Prague , Czech Republic.
@@ -354,6 +354,9 @@ in Cleveland, Ohio.
 
 - [csv,conf,v9](https://csvconf.com/)
   > Date: 10th - 11th September || Mode: In-person || Location: Bologna, Italy
+
+- [Community Over Code North America by the Apache Software Foundation](https://communityovercode.org/)
+  > Date: 11th - 14th September || Mode: In-person || Location: Minneapolis, Minnesota.
 
 - [PyCon Australia](https://2025.pycon.org.au/)
   > Date: 12th - 16th September || Mode: In-person || Location: Pullman Melbourne, Australia.
