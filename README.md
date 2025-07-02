@@ -361,6 +361,9 @@ in Cleveland, Ohio.
 - [Posit::conf 2025](https://posit.co/conference/)
   > Date: 16th - 18th September || Mode: Hybrid || Location: Atlanta, USA
 
+- [DevConf.US](https://www.devconf.info/us/)
+  > Date: 19th - 20th September || Mode: In-person || Location: Boston, USA.
+
 - [IndiaFOSS 2025](https://fossunited.org/indiafoss/2025)
   > Date: 19th - 21st September || Mode: Hybrid || Location: India, Asia
 
