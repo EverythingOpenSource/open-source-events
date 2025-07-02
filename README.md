@@ -219,7 +219,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> June :sparkles: </h2></summary>
 
 - [Berlin, PHP Conference](https://phpconference.com/berlin-en/)
