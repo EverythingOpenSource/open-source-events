@@ -287,6 +287,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [GUADEC](https://events.gnome.org/event/259/)
   > Date: 24th - 29th July || Mode: In-person || Location: Brescia, Italy.
 
+- [Community Over Code Asia by the Apache Software Foundation](https://asia.communityovercode.org/)
+  > Date: 25th - 27th July || Mode: In-person || Location: Beijing, China.
+
 - [EUROPYTHON PRAGUE & REMOTE](https://ep2025.europython.eu/)
   > Date: 14th - 20th July  || Mode: In person , Remote || Location: Prague , Czech Republic.
 
