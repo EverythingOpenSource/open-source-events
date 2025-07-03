@@ -219,7 +219,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> June :sparkles: </h2></summary>
 
 - [Berlin, PHP Conference](https://phpconference.com/berlin-en/)
@@ -355,14 +355,17 @@ in Cleveland, Ohio.
 - [csv,conf,v9](https://csvconf.com/)
   > Date: 10th - 11th September || Mode: In-person || Location: Bologna, Italy
 
-- [Community Over Code North America by the Apache Software Foundation](https://communityovercode.org/)
-  > Date: 11th - 14th September || Mode: In-person || Location: Minneapolis, Minnesota.
+- [Community Over Code](https://communityovercode.org/)
+  > Date: 11th - 14th September || Mode: In-person || Location: Minneapolis, MN, USA
 
 - [PyCon Australia](https://2025.pycon.org.au/)
   > Date: 12th - 16th September || Mode: In-person || Location: Pullman Melbourne, Australia.
 
 - [Posit::conf 2025](https://posit.co/conference/)
   > Date: 16th - 18th September || Mode: Hybrid || Location: Atlanta, USA
+
+- [DevConf.US](https://www.devconf.info/us/)
+  > Date: 19th - 20th September || Mode: In-person || Location: Boston, USA.
 
 - [IndiaFOSS 2025](https://fossunited.org/indiafoss/2025)
   > Date: 19th - 21st September || Mode: Hybrid || Location: India, Asia
