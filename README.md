@@ -377,22 +377,27 @@ in Cleveland, Ohio.
   > Date: 24th - 26th September || Mode: In-person || Location: Berlin, Germany.
 
 - [PyBeach](https://2025.pybeach.org/)
-  > Date: 27th September  || Mode: In Person || Location: The Illusion Magic Lounge in Santa Monica, California.
+  > Date: 27th September  || Mode: In Person || Location: The Illusion Magic Lounge in Santa Monica, California - USA.
 
 - [PyCon Japan](https://2025.pycon.jp/)
   > Date: 26th - 27th September  || Mode: In Person || Location: International Conference Center Hiroshima, Japan.
 
+- [Git Merge](https://git-merge.com/)
+  > Date: 29th - 30th September  || Mode: Hybrid || Location: GitHub HQ, San Francisco, California - USA.
 </details>
 
 
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
+- [Deep Dive: Data Governance](https://opensource.org/datagovernanceconf)
+  > Date: 1st - 3rd October  || Mode: Virtual
+
 - [PyCon Estonia](https://pycon.ee/)
   > Date: 2nd - 3rd October || Mode: In-person || Location: Tallinn, Estonia.
 
 - [PyCon Africa](https://za.pycon.org/)
-  > Date: 08th - 12th October || Mode: Hybrid || Location: The Wanderers Club, Johannesburg South Africa.
+  > Date: 8th - 12th October || Mode: Hybrid || Location: The Wanderers Club, Johannesburg South Africa.
 
 - [All Things Open](https://2025.allthingsopen.org/)
   > Date: 12th - 14th October || Mode: In-person || Location: Raleigh, NC USA.
@@ -403,14 +408,23 @@ in Cleveland, Ohio.
 - [Github Universe](https://githubuniverse.com/)
   > Date: 28th - 29th October || Mode: In-person || Location: not announced yet
 
-- [LatinR - Latinamerican Conference About the Use of R in R&D](https://latinr.org/en/)
-  > Date: not announced yet || Mode: In-person || Location: not announced yet
-
 - [PyCon Thailand 2025](https://th.pycon.org/)
   > Date: 17th - 18th October || Mode: In-person || Location: Microsoft Thailand and Avani Sukhumvit Bangkok Hotel Bangkok, Thailand
 
 - [OpenFest 2025](https://www.openfest.org/2025/en/)
   > Date: 18th - 19th October || Mode: In-person || Location: "John Atanasoff" forum, Sofia Tech Park, Sofia, Bulgaria
+
+- [Open Source AI Week](https://events.linuxfoundation.org/open-source-ai-week/)
+  > Date: 18th -26th October || Mode: In-person || Location: San Francisco, California - USA.
+
+- [The Linux Foundation Legal Summit](https://events.linuxfoundation.org/lf-legal-summit/)
+  > Date: 20th - 21st October || Mode: In-person || Location: San Francisco, California - USA.
+
+- [Open Source in Finance Forum](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
+  > Date: 21st - 22nd October || Mode: In-person || Location: New York City, New York - USA.
+
+- [The Linux Foundation Europe Member Summit](https://events.linuxfoundation.org/lf-europe-member-summit/)
+  > Date: 28th October || Mode: In-person || Location: Ghent, Belgium.
 
 - [GitHub Universe](https://githubuniverse.com/)
   > Date: 28th - 29th October || Mode: In-person || Location: San Francisco, California - USA.
@@ -420,8 +434,23 @@ in Cleveland, Ohio.
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
 
-- [SeaGL](https://pretalx.seagl.org/2025/cfp)
+- [OpenSSF Community Day Korea](https://events.linuxfoundation.org/openssf-community-day-korea/)
+   > Date: 4th November || Mode: In-person || Location: Seoul, South Korea.
+
+- [Open Source Summit Korea](https://events.linuxfoundation.org/open-source-summit-korea/)
+   > Date: 4th - 5th November || Mode: In-person || Location: Seoul, South Korea.
+
+- [Open Source Analytics Conference](https://osacon.io/)
+   > Date: 4th - 5th November || Mode: Virtual
+
+- [SeaGL](https://seagl.org/)
    > Date: 7th - 8th November || Mode: Hybrid || Location: Husky Union Building, University of Washington.
+
+- [The South Tyrol Free Software Conference](https://www.sfscon.it/)
+   > Date: 7th - 8th November || Mode: In-person || Location: Bolzano, Italy.
+
+- [Open Source Security Conference](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/open-source-securitycon/)
+   > Date: 10th November || Mode: In-person || Location: Atlanta, United States.
 
 - [KubeCon + CloudNativeCon North America](https://www.cncf.io/events/)
    > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, United States.
@@ -439,6 +468,9 @@ in Cleveland, Ohio.
 
 <details open>
  <summary><h2> December :sparkles: </h2></summary>
+
+- [LatinR 2025](https://latinr.org/)
+  > Date: 1st - 5th December || Mode: Online
 
 - [Open Source Generative AI & ML Summit](https://events.linuxfoundation.org/ai-dev-japan-2025/)
   > Date: 8th - 10th December || Mode: In-person || Location: Tokyo, Japan.
