@@ -473,7 +473,10 @@ in Cleveland, Ohio.
  <summary><h2> December :sparkles: </h2></summary>
 
 - [LatinR 2025](https://latinr.org/)
-  > Date: 1st - 5th December || Mode: Online
+  > Date: 1st - 5th December || Mode: Virtual
+
+- [PyLadiesCon 2025](https://2025.conference.pyladies.com/en/)
+  > Date: 5th - 7th December || Mode: Virtual
 
 - [Open Source Generative AI & ML Summit](https://events.linuxfoundation.org/ai-dev-japan-2025/)
   > Date: 8th - 10th December || Mode: In-person || Location: Tokyo, Japan.
