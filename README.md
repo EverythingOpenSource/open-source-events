@@ -320,6 +320,9 @@ in Cleveland, Ohio.
 - [OSCAFEST - Open Source Festival](https://festival.oscafrica.org/)
   > Date: 14th - 16th August || Mode: In-person || Location: Lagos, Nigeria.
 
+- [PyCon Latam](https://pylatam.org/)
+  > Date: 21st - 24th August || Mode: In-person || Location: Costa Rica.
+
 - [PyCon Togo](https://pycontg.pytogo.org/)
   > Date: 23th - 24th(half-day) August || Mode: Hybrid || Location: Lomé, Togo.
 
