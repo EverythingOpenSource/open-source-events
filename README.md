@@ -408,9 +408,6 @@ in Cleveland, Ohio.
 - [Pittsburgh TechFest 2025](https://www.pghtech.org/events/2025TechFest)
    > Date: 24th October || Mode: In-person || Location: Tepper Building, Carnegie Mellon University, in Pittsburgh, Pennsylvania.
 
-- [Github Universe](https://githubuniverse.com/)
-  > Date: 28th - 29th October || Mode: In-person || Location: not announced yet
-
 - [PyCon Thailand 2025](https://th.pycon.org/)
   > Date: 17th - 18th October || Mode: In-person || Location: Microsoft Thailand and Avani Sukhumvit Bangkok Hotel Bangkok, Thailand
 
