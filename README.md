@@ -314,6 +314,9 @@ in Cleveland, Ohio.
 - [useR! 2025 Conference](https://www.r-project.org/conferences/)
   > Date: 8th - 10th August|| Mode: In-person || Location: Duke University & Duke Center for Computational Thinking, Durham USA.
 
+- [COSCUP (Conference for Open Source Coders, Users, and Promoters)](https://coscup.org/2025/)
+  > Date:   9th - 10th August || Mode: In-person || Location: National Taiwan University of Science and Technology, Taipei - Taiwan.
+
 - [DjangoCon Africa](https://2025.djangocon.africa)
   > Date: 11th - 15th August || Mode: In-person || Location: Arusha, Tanzania.
 
@@ -329,6 +332,9 @@ in Cleveland, Ohio.
 - [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
   > Date: 25th - 27th August || Mode: In-person || Location: Amsterdam, Netherlands.
 
+- [Keyspace](https://valkey.io/blog/keyspace-save-the-date/)
+  > Date: 28th August || Mode: In-person || Location: Amsterdam, Netherlands.
+
 - [PyCon Kenya](https://www.pycon.ke/)
   > Date: 28th - 30th August || Mode: In-person || Location: Nairabi, Kenya.
 
@@ -337,9 +343,6 @@ in Cleveland, Ohio.
 
 - [PyCon Latam](https://2025.pylatam.org/#)
   > Date: not announced yet || Mode: In-person || Location: Costa Rica.
-
-- [COSCUP (Conference for Open Source Coders, Users, and Promoters)](https://coscup.org/2025/)
-  > Date:   9th - 10th August || Mode: In-person || Location: National Taiwan University of Science and Technology in Taipei, Taiwan
 
 </details>
 
