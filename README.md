@@ -382,6 +382,9 @@ in Cleveland, Ohio.
 - [FlutterCon](https://fluttercon.dev)
   > Date: 24th - 26th September || Mode: In-person || Location: Berlin, Germany.
 
+- [PyCon Ghana](https://gh.pycon.org/2025/)
+  > Date: 25th - 27th September || Mode: In-person || Location: Accra, Ghana.
+
 - [PyBeach](https://2025.pybeach.org/)
   > Date: 27th September  || Mode: In Person || Location: The Illusion Magic Lounge in Santa Monica, California - USA.
 
