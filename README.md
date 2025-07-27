@@ -314,6 +314,9 @@ in Cleveland, Ohio.
 - [useR! 2025 Conference](https://www.r-project.org/conferences/)
   > Date: 8th - 10th August|| Mode: In-person || Location: Duke University & Duke Center for Computational Thinking, Durham USA.
 
+- [Carolina Code Conference 2025](https://blog.carolina.codes/)
+   > Date: 15th - 16th August || Mode: In-person || Location: Flywheel Coworking in Greenville, South Carolina.
+  
 - [COSCUP (Conference for Open Source Coders, Users, and Promoters)](https://coscup.org/2025/)
   > Date:   9th - 10th August || Mode: In-person || Location: National Taiwan University of Science and Technology, Taipei - Taiwan.
 
