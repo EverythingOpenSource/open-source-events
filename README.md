@@ -263,7 +263,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> July :sparkles: </h2></summary>
 
 - [Open EDX](https://con.openedx.org/)
@@ -313,6 +313,9 @@ in Cleveland, Ohio.
 
 - [useR! 2025 Conference](https://www.r-project.org/conferences/)
   > Date: 8th - 10th August|| Mode: In-person || Location: Duke University & Duke Center for Computational Thinking, Durham USA.
+
+- [Open Science for Bioinformaticians - Workshop](https://bioinformatics-outreach-nigeria.github.io/)
+  > Date: 13th - 15th August|| Mode: Virtual
 
 - [Carolina Code Conference 2025](https://blog.carolina.codes/)
    > Date: 15th - 16th August || Mode: In-person || Location: Flywheel Coworking in Greenville, South Carolina.
