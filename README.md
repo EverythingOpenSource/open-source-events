@@ -461,6 +461,9 @@ in Cleveland, Ohio.
 - [The South Tyrol Free Software Conference](https://www.sfscon.it/)
    > Date: 7th - 8th November || Mode: In-person || Location: Bolzano, Italy.
 
+- [FOSS for All Conference 2025](https://2025.fossforall.org/)
+   > Date: 8th November || Mode: In-person || Location: Seoul, South Korea.
+
 - [Open Source Security Conference](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/open-source-securitycon/)
    > Date: 10th November || Mode: In-person || Location: Atlanta, United States.
 
