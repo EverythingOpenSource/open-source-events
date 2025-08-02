@@ -456,7 +456,7 @@ in Cleveland, Ohio.
    > Date: 4th - 5th November || Mode: Virtual
 
 - [SeaGL](https://seagl.org/)
-   > Date: 7th - 8th November || Mode: Hybrid || Location: Husky Union Building, University of Washington.
+   > Date: 7th - 8th November || Mode: Hybrid || Location: Husky Union Building, University of Washington, Seattle, Washington, USA.
 
 - [The South Tyrol Free Software Conference](https://www.sfscon.it/)
    > Date: 7th - 8th November || Mode: In-person || Location: Bolzano, Italy.
@@ -465,19 +465,22 @@ in Cleveland, Ohio.
    > Date: 8th November || Mode: In-person || Location: Seoul, South Korea.
 
 - [Open Source Security Conference](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/open-source-securitycon/)
-   > Date: 10th November || Mode: In-person || Location: Atlanta, United States.
+   > Date: 10th November || Mode: In-person || Location: Atlanta, Georgia, United States.
 
 - [KubeCon + CloudNativeCon North America](https://www.cncf.io/events/)
-   > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, United States.
+   > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, Georgia, USA.
 
 - [Open Forum Academy](https://symposium.openforumeurope.org/)
    > Date: 18th - 19th November || Mode: In-person || Location: Rio de Janeiro, Brazil.
 
 - [React Summit](https://reactsummit.com/?_gl=1*xe57sq*_gcl_aw*R0NMLjE3NDgyMjMwNDEuQ2owS0NRandfOHJCQmhDRkFSSXNBSnJjOXlCd2lnOU04YnZGX3lXWndZR0Vud0liNlhuMVZtaHVyVFNtY2VOdXo0bnRWeXYxa24zekIwMGFBcmxZRUFMd193Y0I.*_gcl_au*NDIxNzg1MzI3LjE3NDgyMjMwNDEuNTY0NjkyNDIwLjE3NDgyMjMwNDIuMTc0ODIyMzA0MQ..)
-  > Date: 18th & 21st November || Mode: In-person || Location: New York - USA.
+  > Date: 18th & 21st November || Mode: In-person || Location: New York, New York, USA.
 
 - [tiny ruby #{conf}](https://helsinkiruby.fi/tinyruby/)
    > Date: 21st November || Mode: In-person || Location: Korjaamo Kino cinema in Helsinki, Finland.
+
+- [Kiwi PyCon 2025](https://kiwipycon.squarespace.com/)
+   > Date: 21st - 23th November || Mode: In-person || Location: Wellington, Aotearoa New Zealand.
 
 </details>
 
