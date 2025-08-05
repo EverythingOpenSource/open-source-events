@@ -347,9 +347,6 @@ in Cleveland, Ohio.
 - [PyCon Greece](https://2025.pycon.gr/en/)
   > Date: 29th - 30th || Mode: In-person || Location: Athens, Greece.
 
-- [PyCon Latam](https://2025.pylatam.org/#)
-  > Date: not announced yet || Mode: In-person || Location: Costa Rica.
-
 </details>
 
 <details open>
