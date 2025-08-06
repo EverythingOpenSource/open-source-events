@@ -446,6 +446,9 @@ in Cleveland, Ohio.
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
 
+- [Mautic World Conference](https://2025.mauticon.org)
+   > Date: 3rd-4th November (hybrid), 6-7 November (online) || Mode: Hybrid & Online || Location: London, UK.
+
 - [OpenSSF Community Day Korea](https://events.linuxfoundation.org/openssf-community-day-korea/)
    > Date: 4th November || Mode: In-person || Location: Seoul, South Korea.
 
