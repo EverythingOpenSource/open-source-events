@@ -344,6 +344,9 @@ in Cleveland, Ohio.
 - [PyCon Kenya](https://www.pycon.ke/)
   > Date: 28th - 30th August || Mode: In-person || Location: Nairabi, Kenya.
 
+- [PyCon PL](https://pl.pycon.org/2025/)
+  > Date: 28th - 31st August || Mode: In-person || Location: Gliwice, Poland.
+
 - [PyCon Greece](https://2025.pycon.gr/en/)
   > Date: 29th - 30th || Mode: In-person || Location: Athens, Greece.
 
