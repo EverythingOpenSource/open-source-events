@@ -297,13 +297,13 @@ The calendar is automatically updated daily, ensuring you always have the latest
   > Date: 26th - 27th July  || Mode: In person || Location: Cleveland State University Student Center
 in Cleveland, Ohio.
 
+- [FOSSY 25](https://2025.fossy.us/)
+  > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
+
 </details>
 
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
-
-- [FOSSY 25](https://2025.fossy.us/)
-  > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
 
 - [Open Source Summit India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/)
   > Date: 5th August|| Mode: In-person || Location: Hyderabad, India.
