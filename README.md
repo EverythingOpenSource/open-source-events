@@ -376,8 +376,12 @@ in Cleveland, Ohio.
 - [Posit::conf 2025](https://posit.co/conference/)
   > Date: 16th - 18th September || Mode: Hybrid || Location: Atlanta, USA
 
+- [Research Software Asia Australia Conference(RSAA25)](https://rseaa.org/)
+   > Date: 17th - 19th September || Mode: Virtual || 
+
 - [DevConf.US](https://www.devconf.info/us/)
   > Date: 19th - 20th September || Mode: In-person || Location: Boston, USA.
+
 
 - [IndiaFOSS 2025](https://fossunited.org/indiafoss/2025)
   > Date: 19th - 21st September || Mode: Hybrid || Location: India, Asia
