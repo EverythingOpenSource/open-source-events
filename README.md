@@ -302,7 +302,7 @@ in Cleveland, Ohio.
 
 </details>
 
-<details open>
+<details>
  <summary><h2> August :sparkles: </h2></summary>
 
 - [Open Source Summit India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/)
