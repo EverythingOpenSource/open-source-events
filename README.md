@@ -352,7 +352,7 @@ in Cleveland, Ohio.
 
 </details>
 
-<details open>
+<details>
  <summary><h2> September :sparkles: </h2></summary>
 
 - [PyCon Taiwan](https://tw.pycon.org/2025/en-us)
