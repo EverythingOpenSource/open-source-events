@@ -489,6 +489,9 @@ in Cleveland, Ohio.
 - [Kiwi PyCon 2025](https://kiwipycon.squarespace.com/)
    > Date: 21st - 23th November || Mode: In-person || Location: Wellington, Aotearoa New Zealand.
 
+- [Python Sul - Porto Alegre](https://sul.python.org.br/en/)
+   > Date: 21th - 23th November || Mode: In-person || Location: Rio Grande do Sul, Brazil. 
+
 </details>
 
 <details open>
