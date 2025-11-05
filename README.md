@@ -48,14 +48,17 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
-
-- [Smaple format](https://samplelink.com)
-  > Date: 0st - 0th December || Mode: Virtual || Sample Country
+  
+- [FOSDEM 26](https://fosdem.org/2026)
+  > Date: 31st January - 1st February || Mode: In-person || Location: Brussels, Belgium.
   
 </details>
 
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
+
+
+
 
 </details>
 
@@ -72,6 +75,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> May :sparkles: </h2></summary>
 
+- [PyCon US](https://us.pycon.org/2026/)
+  > Date: 13th - 19th May || Mode: In-person || Location: Long Beach, California - USA.
+  
 </details>
 
 <details open>
