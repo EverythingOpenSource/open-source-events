@@ -173,6 +173,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [FOSS North](https://foss-north.se/2025/)
   > Date: 14th - 15th April || Mode: In-person || Location: Gothenburg, Sweden.
+  > 
+  - [OCX 2026 - Open Community Experience](https://ocxconf.org/)
+  -   > Date: 21st - 23rd April || Mode: In-person || Location: Brussels, Belgium.
 
 - [PyCon DE & PyData 2025](https://2025.pycon.de/)
   > Date: 23rd - 25th April || Mode: In-person || Location: Frankfurt, Germany.
@@ -243,6 +246,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [Berlin Buzzwords](https://2025.berlinbuzzwords.de/)
   > Date: 15th - 17th June || Mode: In-person || Location: Berlin, Germany.
+  >
+  > - [DevConf.CZ 2026](https://www.devconf.info/cz/)
+  > -   > Date: 18th - 20th June || Mode: In-person || Location: Brno, Czech Republic.
 
 - [KubeCon + CloudNativeCon Japan](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)
   > Date: 16th - 17th June || Mode: In-person || Location: Tokyo, Japan.
@@ -269,6 +275,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [Open EDX](https://con.openedx.org/)
   > Date: 1st - 4th July || Mode: In-person || Location: Paris, France.
+  >
+  > - [BOSC 2026 - Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc/)
+  > -   > Date: 13th - 14th July || Mode: In-person || Location: Washington, DC - USA.
 
 - [Foss4g](https://2025.europe.foss4g.org/)
   > Date: 14th - 20th July || Mode: In-person || Location: Mostar, Bosnia.
