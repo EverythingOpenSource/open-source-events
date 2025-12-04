@@ -77,6 +77,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 </details>
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
+- [Free Software Legal and Licensing Workshop 2026](https://pretalx.com/llw2026/cfp): April 15-17:  Berlin, Germany
 
 </details>
 
