@@ -49,50 +49,123 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
   
-- Eclipse Foundation's Open Regulatory Compliance - {Code & Compliance - FOSDEM Edition} (https://www.eclipse-foundation.events/event/code-compliance-2026/summary)
-  > Date: January 29, 2026 || Mode: In-person || Location:  Brussels, Belgium  
+- [HackerTrain](https://hackertrain.org/hackertrain-to-fosdem-2026-call-for-participation.html)
+  > Date: January 20 || Mode: In-person || Locations: Various
+- [Drupal AI Hackathon - Play to Impact: 2026 edition](https://drupal-community-of-practice.ec.europa.eu/drupal-ai-hackathon-play-impact-2026-edition_en)
+  > Date: January 27-28 || Mode: In-person || Locations: Brussels, Belgium  
+- [Software Heritage 2026 Symposium and Summit](https://www.softwareheritage.org/2025/11/25/software_heritage_2026_symposium_summit/)
+  > Date: January 28 || Mode: Hybrid || Location: Paris, France
+- [Simpl Annual Community Event 2026](https://internationaldataspaces.org/events/simpl-annual-community-event-2026-connect-and-grow-together/)
+  > Date: January 29 || Mode: In-person || Location: Brussels, Belgium
+- [Drupal4Gov EU Conference 2026](https://drupal4gov.eu/)
+  > Date: January 29 || Mode: In-person || Location: Brussels, Belgium
+- [CHAOSScon Europe 2026](https://chaoss.community/chaosscon-2026-eu-2/)
+  > Date: January 29 || Mode: In-person || Location: Brussels, Belgium
+- [Eclipse Foundation's code & compliance - FOSDEM Edition](https://www.eclipse-foundation.events/event/code-compliance-2026/summary)
+  > Date: January 29, 2026 || Mode: In-person || Location: Brussels, Belgium
+- [The European Open Source Awards](https://europeanopensource.academy/awards)
+  > Date: January 29, 2026 || Mode: In-person || Location: Brussels, Belgium    
+- [EU Open Souce Policy Summit 2026](https://summit.openforumeurope.org/)
+  > Date: January 30 || Mode: In-person || Location: Brussels, Belgium
+- [FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop](https://workshop.aboutcode.org/)
+  > Date: January 30 || Mode: In-person || Location: Brussels, Belgium  
 - [FOSDEM 26](https://fosdem.org/2026)
-  > Date: 31st January - 1st February || Mode: In-person || Location: Brussels, Belgium.
-- [CHAOSScon](https://chaoss.community/chaosscon-2026-eu-2/) - Jan 29
-- [OFE Jan 30](https://summit.openforumeurope.org/)
+  > Date: January 31-February 1 || Mode: In-person || Location: Brussels, Belgium
+- [OpenEmbedded Workshop 2026](https://pretalx.com/openembedded-workshop-2026-2025/)
+  > Date: February 2 || Mode: In-person || Location: Brussels, Belgium
+- [Config Management Camp](https://cfgmgmtcamp.org/ghent2026/)
+  > Date: February 2-4 || Mode: In-person || Location: Ghent, Belgium
   
 </details>
 
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
 
-- [LF Member Summit](https://events.linuxfoundation.org/lf-member-summit-2025/): February 24-25: Napa
-
+- [DevConf.IN](https://www.devconf.info/in/)
+  > Date: February 13-14 || Mode: In-person || Location: Pune, India
+- [LF Member Summit](https://events.linuxfoundation.org/lf-member-summit/)
+  > Date: February 24-25 || Mode: In-person || Location: Napa, CA, USA
+- [Open Source Forum](https://events.linuxfoundation.org/aswf-open-source-forum/)
+  > Date: February 26 || Mode: Hybrid || Location: Los Angeles, CA, USA
 
 </details>
 
 <details open>
  <summary><h2> March :sparkles: </h2></summary>
 
-- [SCALE](https://www.socallinuxexpo.org/scale/23x/): March 5-8: Pasadena
-- [FOSS Backstage](https://25.foss-backstage.de/): March 16-17: Berlin
+- [SCaLE 23x](https://www.socallinuxexpo.org/scale/23x/)
+   > Date: March 5-8 || Mode: In-person || Location: Pasadena, CA, USA
+- [FOSS Backstage](https://26.foss-backstage.de/)
+   > Date: March 16-17 || Mode: In-person || Location: Berlin, Germany
+- [High Performance Software Foundation Conference 2026](https://events.linuxfoundation.org/hpsf-conference/)
+   > Date: March 16-17 || Mode: In-person || Location: Chicago, IL, USA
+- [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/?__hstc=160532258.a76c24bafba7afd59fe89d066e197b58.1763484400690.1764595011781.1764947072242.5&__hssc=160532258.2.1764947072242&__hsfp=2473773402&_gl=1*1su9d1s*_gcl_au*NTY1OTQ3NDM1LjE3NjM0ODQzODg.)
+   > Date: March 17-18 || Mode: In-person || Location: Shanghai, China
 - [Monkigras](https://monkigras.com/): March 19-20
-- KubeCon EU Amsterdam March 23-26
+   > Date: March 19-20 || Mode: In-person || Location: London, UK
+- [KubeCon/CloudNativeCon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+   > Date: March 23-26 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [Cloud Native AI + Kubeflow Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-ai-kubeflow-day/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [Cloud Native Telco Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-telco-day/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [CiliumCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/ciliumcon/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [fluxCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/fluxcon/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [KeycloakCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/keycloakcon/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [Kubernetes on Edge Day Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubernetes-on-edge-day/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [KyvernoCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kyvernocon/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [Observability Day Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/observability-day/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [Open Source SecurityCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/open-source-securitycon/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [OpenTofu Day Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/opentofu-day/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [Platform Engineering Day Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/platform-engineering-day/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
+- [WasmCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
+   > Date: March 23 || Mode: In-person || Location: Amsterdam, The Netherlands
 
 </details>
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
-- [Free Software Legal and Licensing Workshop 2026](https://pretalx.com/llw2026/cfp): April 15-17:  Berlin, Germany
-
+- [Free Software Legal and Licensing Workshop 2026](https://pretalx.com/llw2026/cfp)
+   > Date: April 15-17 || Mode: In-person || Location: Berlin, Germany
+- [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/)
+   > Date: April 16-17 || Mode: In-person || Location: Prague, Czechia
 </details>
 
 <details open>
  <summary><h2> May :sparkles: </h2></summary>
 
 - [PyCon US](https://us.pycon.org/2026/)
-  > Date: 13th - 19th May || Mode: In-person || Location: Long Beach, California - USA.
-- [OSSummit NA](https://events.linuxfoundation.org/open-source-summit-north-america/): May 18 - 20: Minneapolis (CHAOSScon Colo?)  
+  > Date: May 13-19 || Mode: In-person || Location: Long Beach,CA, USA.
+- [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/)
+   > Date: May 18-20 || Mode: In-person || Location: Minneapolis, MN, USA
+- [Embedded Linux Conference North America](https://events.linuxfoundation.org/embedded-linux-conference-north-america/)
+   > Date: May 18-20 || Mode: In-person || Location: Minneapolis, MN, USA
+- [Observability Summit North America](https://events.linuxfoundation.org/observability-summit-north-america/)
+   > Date: May 21-22 || Mode: In-person || Location: Minneapolis, MN, USA    
 </details>
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
-
-- [UN Open Source Week](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025): 22 - 26 June in NY
+- [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/)
+   > Date: June 15-16 || Mode: In-person || Location: Mumbai, India
+- [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
+   > Date: June 16-17 || Mode: In-person || Location: Mumbai, India
+- [DevConf.CZ](https://www.devconf.info/cz/)
+   > Date: June 18-20 || Mode: In-person || Location: Brno, Czechia
+- [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/)
+   > Date: June 18-19 || Mode: In-person || Location: Mumbai, India
+- [UN Open Source Week](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
+    > Date: June 22-26 || Mode: In-person || Location: New York, NY, USA
+- [OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/)
+    > Date: June 22-26 || Mode: In-person || Location: Vienna, Austria  
 </details>
 
 <details open>
