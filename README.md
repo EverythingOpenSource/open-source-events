@@ -99,7 +99,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
    > Date: March 16-17 || Mode: In-person || Location: Berlin, Germany
 - [High Performance Software Foundation Conference 2026](https://events.linuxfoundation.org/hpsf-conference/)
    > Date: March 16-17 || Mode: In-person || Location: Chicago, IL, USA
-- [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/?__hstc=160532258.a76c24bafba7afd59fe89d066e197b58.1763484400690.1764595011781.1764947072242.5&__hssc=160532258.2.1764947072242&__hsfp=2473773402&_gl=1*1su9d1s*_gcl_au*NTY1OTQ3NDM1LjE3NjM0ODQzODg.)
+- [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/)
    > Date: March 17-18 || Mode: In-person || Location: Shanghai, China
 - [Monkigras](https://monkigras.com/): March 19-20
    > Date: March 19-20 || Mode: In-person || Location: London, UK
@@ -137,6 +137,10 @@ The calendar is automatically updated daily, ensuring you always have the latest
    > Date: April 15-17 || Mode: In-person || Location: Berlin, Germany
 - [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/)
    > Date: April 16-17 || Mode: In-person || Location: Prague, Czechia
+- [Open Community Experience (OCX) 2026](https://www.ocxconf.org/event/2026/summary)
+   > Date: April 21-23 || Mode: In-person || Location: Brussels, Belgium  
+- LinuxFest Northwest](https://www.linuxfestnorthwest.org/)
+   > Date: April 24-26 || Mode: In-person || Location: Bellingham, WA, USA  
 </details>
 
 <details open>
@@ -154,6 +158,8 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
+- [Berlin Buzzwords](https://2026.berlinbuzzwords.de/)
+   > Date: June 7-9 || Mode: In-person || Location: Berlin, Germany
 - [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/)
    > Date: June 15-16 || Mode: In-person || Location: Mumbai, India
 - [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
@@ -163,13 +169,19 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/)
    > Date: June 18-19 || Mode: In-person || Location: Mumbai, India
 - [UN Open Source Week](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
-    > Date: June 22-26 || Mode: In-person || Location: New York, NY, USA
+   > Date: June 22-26 || Mode: In-person || Location: New York, NY, USA
 - [OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/)
-    > Date: June 22-26 || Mode: In-person || Location: Vienna, Austria  
+   > Date: June 22-26 || Mode: In-person || Location: Vienna, Austria
+- [Automotive Oopen Source Summit 2026](https://www.automotive-oss.org/event/2026/summary)
+   > Date: June 30 || Mode: In-person || Location: Starnberg, Germany    
 </details>
 
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
+- [Open Source Days](https://events.linuxfoundation.org/open-source-days/)
+   > Date: July 19 || Mode: Hybrid || Location: Los Angeles, CA, USA  
+- [KubeCon + CloudNativeCon Japan](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)
+   > Date: July 29-30 || Mode: In-person || Location: Yokohama, Japan
 
 </details>
 
@@ -180,6 +192,12 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
+- [KubeCon + CloudNativeCon China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
+   > Date: September 8-9 || Mode: In-person || Location: Shanghai, China
+- [OpenInfra Summit Asia](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
+   > Date: September 8-9 || Mode: In-person || Location: Shanghai, China
+- [Automotive Grade Linux All Member Meeting](https://events.linuxfoundation.org/agl-amm-europe/)
+   > Date: September 30-October 1 || Mode: In-person || Location: Berlin, Germany
 
 </details>
 
@@ -187,33 +205,33 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
-- [OSSummit EU](https://events.linuxfoundation.org/open-source-summit-europe/): Oct 7–9: Prague
-- [All Things Open](https://allthingsopen.org/events/all-things-open-2026): October 18 - 20
+- [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/)
+   > Date: October 7-9 || Mode: In-person || Location: Prague, Czechia
+- [Embedded Linux Conference Euuope](https://events.linuxfoundation.org/embedded-linux-conference-europe/)
+   > Date: October 7-9 || Mode: In-person || Location: Prague, Czechia
+- [All Things Open](https://allthingsopen.org/events/all-things-open-2026)
+   > Date: October 18-20 || Mode: In-person || Location: Raleigh, NC, USA
+- [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/)
+   > Date: October 20-21 || Mode: In-person || Location: San Jose, CAC, USA
   
 </details>
 
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
+- [Open Source in Finance Forum](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
+   > Date: November 4-5 || Mode: In-person || Location: New York, NY, USA
+- [Texas Linux Fest](https://2026.texaslinuxfest.org/)
+   > Date: November 6-7 || Mode: In-person || Location: Austin, TX, USA
+- [Akademy 2026](https://akademy.kde.org/)
+   > Date: November 13 || Mode: In-person || Location: Graz, Austria
+- [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/)
+   > Date: November 9-12 || Mode: In-person || Location: Salt Lake City, UT, USA  
 
 </details>
 
 <details open>
  <summary><h2> December :sparkles: </h2></summary>
-
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan-2026/)
+   > Date: December 7-9 || Mode: In-person || Location: Tokyo, Japan
 
 </details>
