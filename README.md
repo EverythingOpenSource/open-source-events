@@ -59,12 +59,12 @@ The calendar is automatically updated daily, ensuring you always have the latest
   > Date: January 29 || Mode: In-person || Location: Brussels, Belgium
 - [Drupal4Gov EU Conference 2026](https://drupal4gov.eu/)
   > Date: January 29 || Mode: In-person || Location: Brussels, Belgium
-- [CHAOSScon Europe 2026](https://chaoss.community/chaosscon-2026-eu-2/)
-  > Date: January 29 || Mode: In-person || Location: Brussels, Belgium
 - [Eclipse Foundation's code & compliance - FOSDEM Edition](https://www.eclipse-foundation.events/event/code-compliance-2026/summary)
-  > Date: January 29, 2026 || Mode: In-person || Location: Brussels, Belgium
+  > Date: January 29 || Mode: In-person || Location: Brussels, Belgium
 - [The European Open Source Awards](https://europeanopensource.academy/awards)
-  > Date: January 29, 2026 || Mode: In-person || Location: Brussels, Belgium    
+  > Date: January 29 || Mode: In-person || Location: Brussels, Belgium
+- [CHAOSScon Europe 2026](https://chaoss.community/chaosscon-2026-eu-2/)
+  > Date: January 30 || Mode: In-person || Location: Brussels, Belgium    
 - [EU Open Souce Policy Summit 2026](https://summit.openforumeurope.org/)
   > Date: January 30 || Mode: In-person || Location: Brussels, Belgium
 - [FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop](https://workshop.aboutcode.org/)
