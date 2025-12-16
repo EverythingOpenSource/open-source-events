@@ -69,12 +69,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
   
 - [The European Open Source Awards](https://europeanopensource.academy/awards)
   > Date: 29th January || Mode: In-person || Location: Brussels, Belgium.
-  
-- [CHAOSScon Europe 2026](https://chaoss.community/chaosscon-2026-eu-2/)
-  > Date: 30th January || Mode: In-person || Location: Brussels, Belgium.
-     
+   
 - [EU Open Souce Policy Summit 2026](https://summit.openforumeurope.org/)
-  > Date: 30th January || Mode: In-person || Location: Brussels, Belgium.
+  > Date: 29th January || Mode: In-person || Location: Brussels, Belgium.
   
 - [FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop](https://workshop.aboutcode.org/)
   > Date: 30th January || Mode: In-person || Location: Brussels, Belgium.
