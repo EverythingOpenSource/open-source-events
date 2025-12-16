@@ -87,6 +87,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
   
+- [Apertre 3.0](https://apertre.resourcio.in/)
+  > Date: 1st February - 1st March || Mode: Online || Location: Global (Open for All)  || 30-day open-source contribution program by Resourcio Community
+
 - [OpenEmbedded Workshop 2026](https://pretalx.com/openembedded-workshop-2026-2025/)
   > Date: 2nd February || Mode: In-person || Location: Brussels, Belgium.
   
