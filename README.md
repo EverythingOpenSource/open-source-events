@@ -80,7 +80,10 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
-
+  
+- [Apertre 3.0](https://apertre.resourcio.in/)
+  > Date: February 1 – March 1 || Mode: Online || Location: Global (Open for All)  
+  > A 30-day open-source contribution program by Resourcio Community focused on real-world projects, mentorship, and community collaboration.
 - [DevConf.IN](https://www.devconf.info/in/)
   > Date: February 13-14 || Mode: In-person || Location: Pune, India
 - [LF Member Summit](https://events.linuxfoundation.org/lf-member-summit/)
