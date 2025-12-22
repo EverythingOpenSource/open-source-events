@@ -164,6 +164,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 </details>
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
+
+- [PyCon Lithuania](https://pycon.lt/2026)
+   > Date: 8th - 10th April || Mode: In-person || Location: Vilnius, Lithuania.
   
 - [Free Software Legal and Licensing Workshop 2026](https://pretalx.com/llw2026/cfp)
    > Date: 15th - 17th April || Mode: In-person || Location: Berlin, Germany.
