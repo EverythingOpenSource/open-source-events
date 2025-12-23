@@ -51,12 +51,18 @@ The calendar is automatically updated daily, ensuring you always have the latest
   
 - [HackerTrain](https://hackertrain.org/hackertrain-to-fosdem-2026-call-for-participation.html)
   > Date: 20th January || Mode: In-person || Locations: Various
+
+- [Everything Open 2026](https://2026.everythingopen.au/)
+  > Date: 21st - 23rd January || Mode: In-person || Locations: University of Canberra, Canberra, Australia.
   
 - [Drupal AI Hackathon - Play to Impact: 2026 edition](https://drupal-community-of-practice.ec.europa.eu/drupal-ai-hackathon-play-impact-2026-edition_en)
   > Date: 27th - 28th January || Mode: In-person || Locations: Brussels, Belgium.
     
 - [Software Heritage 2026 Symposium and Summit](https://www.softwareheritage.org/2025/11/25/software_heritage_2026_symposium_summit/)
   > Date: 28th January || Mode: Hybrid || Location: Paris, France.
+
+- [Linux Foundation Decentralized Trust](https://www.lfdecentralizedtrust.org/events/member-summit-202526?hsLang=en)
+  > Date: 28th - 29th January || Mode: In-person || Location: Jersey City, New Jersey, USA.
   
 - [Simpl Annual Community Event 2026](https://internationaldataspaces.org/events/simpl-annual-community-event-2026-connect-and-grow-together/)
   > Date: 29th January || Mode: In-person || Location: Brussels, Belgium.
@@ -92,6 +98,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
   
 - [Config Management Camp](https://cfgmgmtcamp.org/ghent2026/)
   > Date: 2nd - 4th February || Mode: In-person || Location: Ghent, Belgium.
+
+- [PyTorch Day India](https://events.linuxfoundation.org/pytorch-day-india/)
+  > Date: 7th February || Mode: In-person || Location: Bengaluru, India.
   
 - [DevConf.IN](https://www.devconf.info/in/)
   > Date: 13th - 14th February || Mode: In-person || Location: Pune, India.
@@ -109,6 +118,12 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [SCaLE 23x](https://www.socallinuxexpo.org/scale/23x/)
    > Date: 5th - 8th March || Mode: In-person || Location: Pasadena, California, USA.
+
+- [FOSSASIA Summit](https://eventyay.com/e/88882f3e)
+   > Date: 9th - 10th March || Mode: In-person || Location: Bankok, Thailand.
+
+- [Zephyr at Embedded World Exhibition & Conference](https://zephyrproject.org/event/embedded-world-exhibition-conference-nuremberg-germany-2026/)
+   > Date: 10th - 12th March || Mode: In-person || Location: Nuremberg, Germany.
    
 - [FOSS Backstage](https://26.foss-backstage.de/)
    > Date: 16th - 17th March || Mode: In-person || Location: Berlin, Germany.
@@ -167,6 +182,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [PyCon Lithuania](https://pycon.lt/2026)
    > Date: 8th - 10th April || Mode: In-person || Location: Vilnius, Lithuania.
+
+- [PyCon DE & PyData 2026](https://2026.pycon.de/)
+   > Date: 14th - 16th April || Mode: In-person || Location: Frankfurt, Germany.
   
 - [Free Software Legal and Licensing Workshop 2026](https://pretalx.com/llw2026/cfp)
    > Date: 15th - 17th April || Mode: In-person || Location: Berlin, Germany.
