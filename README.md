@@ -53,7 +53,10 @@ The calendar is automatically updated daily, ensuring you always have the latest
   > Date: 20th January || Mode: In-person || Locations: Various
 
 - [Everything Open 2026](https://2026.everythingopen.au/)
-  > Date: 21st - 23rd January || Mode: In-person || Locations: University of Canberra, Canberra, Australia.
+  > Date: 21st - 23rd January || Mode: In-person || Location: University of Canberra, Canberra, Australia.
+
+- [FOSS4G Asia](https://foss4g.asia/2026/)
+  > Date: 21st - 25th January || Mode: In-person || Location: Nashik, India.
   
 - [Drupal AI Hackathon - Play to Impact: 2026 edition](https://drupal-community-of-practice.ec.europa.eu/drupal-ai-hackathon-play-impact-2026-edition_en)
   > Date: 27th - 28th January || Mode: In-person || Locations: Brussels, Belgium.
@@ -99,14 +102,23 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Config Management Camp](https://cfgmgmtcamp.org/ghent2026/)
   > Date: 2nd - 4th February || Mode: In-person || Location: Ghent, Belgium.
 
+- [CityJS Singapore](https://singapore.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=button&utm_campaign=learn_more)
+  > Date: 4th - 6th February || Mode: In-person || Location: LifeLong Learning Institute, Singapore.
+
 - [PyTorch Day India](https://events.linuxfoundation.org/pytorch-day-india/)
   > Date: 7th February || Mode: In-person || Location: Bengaluru, India.
   
 - [DevConf.IN](https://www.devconf.info/in/)
   > Date: 13th - 14th February || Mode: In-person || Location: Pune, India.
-  
+
+- [CityJS New Delhi](https://india.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click)
+  > Date: 18th - 19th February || Mode: In-person || Location: Shankar Lal Concert Hall, New Delhi, India.
+
 - [LF Member Summit](https://events.linuxfoundation.org/lf-member-summit/)
   > Date: 24th - 25th February || Mode: In-person || Location: Napa, California, USA.
+
+- [PyCon Namibia 2026](https://na.pycon.org/)
+  > Date: 20th - 26th February || Mode: In-person || Location: Namibia.
   
 - [Open Source Forum](https://events.linuxfoundation.org/aswf-open-source-forum/)
   > Date: 26th February || Mode: Hybrid || Location: Los Angeles, California, USA.
@@ -115,6 +127,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 <details open>
  <summary><h2> March :sparkles: </h2></summary>
+  
+- [Laracon EU](https://laracon.eu/)
+   > Date: 2nd - 3rd March || Mode: In-person || Location: Amsterdam, Netherlands.
 
 - [SCaLE 23x](https://www.socallinuxexpo.org/scale/23x/)
    > Date: 5th - 8th March || Mode: In-person || Location: Pasadena, California, USA.
@@ -136,9 +151,12 @@ The calendar is automatically updated daily, ensuring you always have the latest
    
 - [Monkigras](https://monkigras.com/)
    > Date: 19th - 20th March || Mode: In-person || Location: London, UK.
+
+- [Open Source SecurityCon Europe](https://openssf.org/event/open-source-securitycon-2026/)
+   > Date: 23rd March || Mode: In-person || Location: Amsterdam, The Netherlands.
    
 - [KubeCon/CloudNativeCon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-   > Date: 23th - 26th March || Mode: In-person || Location: Amsterdam, The Netherlands.
+   > Date: 23rd - 26th March || Mode: In-person || Location: Amsterdam, The Netherlands.
    
 - [Cloud Native AI + Kubeflow Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-ai-kubeflow-day/)
    > Date: 23rd March || Mode: In-person || Location: Amsterdam, The Netherlands.
@@ -176,6 +194,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [WasmCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
    > Date: 23rd March || Mode: In-person || Location: Amsterdam, The Netherlands.
 
+- [Chemnitz Linux Days](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
+   > Date: 29th - 30th March || Mode: In-person || Location: Chemnitzer, Germany.
+
 </details>
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
@@ -185,12 +206,21 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [PyCon DE & PyData 2026](https://2026.pycon.de/)
    > Date: 14th - 16th April || Mode: In-person || Location: Frankfurt, Germany.
+
+- [CityJS London](https://london.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click)
+  > Date: 15th - 17th || Mode: In-person || Location: Kensington Town Hall, London.
   
 - [Free Software Legal and Licensing Workshop 2026](https://pretalx.com/llw2026/cfp)
    > Date: 15th - 17th April || Mode: In-person || Location: Berlin, Germany.
+
+- [DjangoCon Europe](https://2026.djangocon.eu/)
+  > Date: 15th - 19th || Mode: In-person || Location: Athens, Greece.
    
 - [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/)
    > Date: 16th - 17th April || Mode: In-person || Location: Prague, Czechia.
+
+- [GrafanaCon](https://grafana.com/events/grafanacon/)
+   > Date: 20th - 22nd April || Mode: In-person || Location: Barcelona, Spain.
    
 - [Open Community Experience (OCX) 2026](https://www.ocxconf.org/event/2026/summary)
    > Date: 21st - 23rd April || Mode: In-person || Location: Brussels, Belgium.
@@ -202,6 +232,15 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> May :sparkles: </h2></summary>
 
+- [FlutterFlow Developers Conference](https://www.ffdc.io/)
+  > Date: May (Specific Dates to be announced soon) || Mode: Hybrid || Location: San Francisco, California, USA.
+
+- [Write the Docs](https://www.writethedocs.org/conf/portland/2026/)
+  > Date: 3rd - 5th May || Mode: In-person || Location: Portland, Oregon, USA.
+
+- [Red Hat Summit](https://www.redhat.com/en/summit)
+  > Date: 11th - 14th May || Mode: In-person || Location: Atlanta, Georgia, USA.
+
 - [PyCon US](https://us.pycon.org/2026/)
   > Date: 13th - 19th May || Mode: In-person || Location: Long Beach, California, USA.
   
@@ -210,16 +249,42 @@ The calendar is automatically updated daily, ensuring you always have the latest
    
 - [Embedded Linux Conference North America](https://events.linuxfoundation.org/embedded-linux-conference-north-america/)
    > Date: 18th - 20th May || Mode: In-person || Location: Minneapolis, Minnesota, USA.
+
+- [Beethoven Sprint 2026](https://plone.org/news-and-events/events/sprints/beethoven-sprint-2026)
+   > Date: 18th - 22nd May || Mode: In-person || Location: kitconcept office, Bonn, Germany.
+
+- [OpenSSF Community Day North America 2026](https://openssf.org/event/openssf-community-day-north-america-2026/)
+   > Date: 21st May || Mode: In-person || Location: Minneapolis, Minnesota.
    
 - [Observability Summit North America](https://events.linuxfoundation.org/observability-summit-north-america/)
-   > Date: 21st - 22nd May || Mode: In-person || Location: Minneapolis, Minnesota, USA.    
+   > Date: 21st - 22nd May || Mode: In-person || Location: Minneapolis, Minnesota, USA.
+
+- [Platmosphere Chapter 2026 Master the Vibe](https://platmosphere.com/)
+   > Date: 26th May || Mode: In-person || Location: Milan, Italy.
+
+ 
 </details>
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
+
+- [Neos Conference 2026](https://www.neoscon.io/)
+   > Date: 1st - 3rd June || Mode: In-person || Location: Genohotel Karlsruhe, Germany.
   
 - [Berlin Buzzwords](https://2026.berlinbuzzwords.de/)
    > Date: 7th - 9th June || Mode: In-person || Location: Berlin, Germany.
+
+- [Pole Position Sprint](https://plone.org/news-and-events/events/sprints/pole-position-sprint-2026)
+   > Date: 8th - 12th June || Mode: In-person || Location: Kerpen, Germany.
+
+- [International PhP Conference](https://phpconference.com/berlin-en/)
+   > Date: 8th - 12th June || Mode: Hybrid || Location: Maritim proArte Berlin, Germany.
+
+- [Umbraco Codegarden](https://codegarden.umbraco.com/)
+   > Date: 10th - 11th June || Mode: In-person || Location: Copenhagen, Denmark.
+
+- [React Summit](https://reactsummit.com/)
+   > Date: 12th - 16th June || Mode: In-person || Location: Amsterdam, Netherlands.
    
 - [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/)
    > Date: 15th - 16th June || Mode: In-person || Location: Mumbai, India.
@@ -238,6 +303,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
    
 - [OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/)
    > Date: 22nd - 26th June || Mode: In-person || Location: Vienna, Austria.
+
+- [Open Source in Finance Forum London](https://events.linuxfoundation.org/open-source-finance-forum-london/)
+   > Date: 25th June || Mode: In-person || Location: London, England.
    
 - [Automotive Oopen Source Summit 2026](https://www.automotive-oss.org/event/2026/summary)
    > Date: 30th June || Mode: In-person || Location: Starnberg, Germany.    
@@ -245,6 +313,12 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
+
+- [DroidCon](https://usa.droidcon.com/)
+   > Date: 16th - 17th July || Mode: In-person || Location: Orlando, Florida, USA.
+
+- [FlutterCon](https://www.flutterconusa.dev/)
+   > Date: 16th - 17th July || Mode: In-person || Location: Orlando, Florida, USA.
   
 - [Open Source Days](https://events.linuxfoundation.org/open-source-days/)
    > Date: 19th July || Mode: Hybrid || Location: Los Angeles, California, USA.
@@ -257,26 +331,35 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
 
+- [PyCon Australia](https://2026.pycon.org.au/)
+  > Date: 26th - 30th August || Mode: In-person || Location: Brisbane, Australia.
+
+- [FOSS4G Hiroshima](https://www.osgeo.jp/foss4g-2026-hiroshima)
+  > Date: 30th August - 5th September || Mode: In-person || Location: Hiroshima, Japan.
+
+- [Airflow Summit](https://airflowsummit.org/)
+   > Date: 31st August - 2nd September || Mode: In-person || Location: Austin, Texas, USA.
+
 </details>
 
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
   
-- [KubeCon + CloudNativeCon China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
+- [KubeCon + CloudNativeCon + OpenInfra China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
    > Date: 8th - 9th September || Mode: In-person || Location: Shanghai, China.
    
-- [OpenInfra Summit Asia](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
-   > Date: 8th - 9th September 8-9 || Mode: In-person || Location: Shanghai, China.
-   
 - [Automotive Grade Linux All Member Meeting](https://events.linuxfoundation.org/agl-amm-europe/)
-   > Date: 30th September - 1st October || Mode: In-person || Location: Berlin, Germany
+   > Date: 30th September - 1st October || Mode: In-person || Location: Berlin, Germany.
 </details>
 
 
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
-- [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/)
+- [FlutterCon Europe](https://www.nextappcon.com/fluttercon)
+   > Date: 7th - 9th October || Mode: In-person || Location: Berlin, Germany.
+
+- [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 7th - 9th October || Mode: In-person || Location: Prague, Czechia.
    
 - [Embedded Linux Conference Euuope](https://events.linuxfoundation.org/embedded-linux-conference-europe/)
@@ -286,14 +369,20 @@ The calendar is automatically updated daily, ensuring you always have the latest
    > Date: 18th - 20th October || Mode: In-person || Location: Raleigh, North Carolina, USA.
    
 - [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/)
-   > Date: October 20-21 || Mode: In-person || Location: San Jose, California, USA.
+   > Date: 20th - 21st October || Mode: In-person || Location: San Jose, California, USA.
+
+- [CityJS Athens](https://greece.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click)
+  > Date: 21st 23rd October || Mode: In-person || Location: Athens War Museum, Athens, Greece.
+
+- [IBM TechXchange](https://www.ibm.com/community/ibm-techxchange-conference/)
+   > Date: 26th - 29th October || Mode: In-person || Location: Atlanta, Georgia, USA.
   
 </details>
 
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
   
-- [Open Source in Finance Forum](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
+- [Open Source in Finance Forum New York](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
    > Date: 4th - 5th November || Mode: In-person || Location: New York City, New York, USA.
    
 - [Texas Linux Fest](https://2026.texaslinuxfest.org/)
@@ -312,5 +401,8 @@ The calendar is automatically updated daily, ensuring you always have the latest
   
 - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan-2026/)
    > Date: 7th - 9th December || Mode: In-person || Location: Tokyo, Japan.
+
+- [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/)
+   > Date: 10th - 11th December || Mode: In-person || Location: Tokyo, Japan.
 
 </details>
