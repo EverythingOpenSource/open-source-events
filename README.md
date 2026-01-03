@@ -204,6 +204,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [PyCon Lithuania](https://pycon.lt/2026)
    > Date: 8th - 10th April || Mode: In-person || Location: Vilnius, Lithuania.
 
+- [VulnCon 2026](https://www.first.org/conference/vulncon26/cfs)
+   > Date: 13th - 16th April || Mode: In-person || Location: Paradise Valley, Scottsdale, Arizona, USA.
+
 - [PyCon DE & PyData 2026](https://2026.pycon.de/)
    > Date: 14th - 16th April || Mode: In-person || Location: Frankfurt, Germany.
 
@@ -330,6 +333,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
+
+- [DefCon Training](https://training.defcon.org/pages/2026-las-vegas-call-for-trainers)
+  > Date: 8th - 11th August || Mode: In-person || Location: Las Vegas, Nevada, USA.
 
 - [PyCon Australia](https://2026.pycon.org.au/)
   > Date: 26th - 30th August || Mode: In-person || Location: Brisbane, Australia.
