@@ -114,6 +114,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [CityJS New Delhi](https://india.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click)
   > Date: 18th - 19th February || Mode: In-person || Location: Shankar Lal Concert Hall, New Delhi, India.
 
+- [Kubernetes Community Days Delhi](https://www.kcddelhi.com/)
+  > Date: 21st February || Mode: In-person || Location: New Delhi, India
+
 - [LF Member Summit](https://events.linuxfoundation.org/lf-member-summit/)
   > Date: 24th - 25th February || Mode: In-person || Location: Napa, California, USA.
 
