@@ -224,6 +224,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
    
 - [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/)
    > Date: 16th - 17th April || Mode: In-person || Location: Prague, Czechia.
+   
+- [PyTexas](https://www.pytexas.org/2026/)
+   > Date: 17th - 19th April || Mode: Hybrid || Location: Austin, Texas.
 
 - [GrafanaCon](https://grafana.com/events/grafanacon/)
    > Date: 20th - 22nd April || Mode: In-person || Location: Barcelona, Spain.
