@@ -268,6 +268,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Platmosphere Chapter 2026 Master the Vibe](https://platmosphere.com/)
    > Date: 26th May || Mode: In-person || Location: Milan, Italy.
 
+- [PyCon Italia](https://2026.pycon.it/en)
+  > Date: 27th - 30th May || Mode: In-person || Location: Bologna, Italy.
+
  
 </details>
 
