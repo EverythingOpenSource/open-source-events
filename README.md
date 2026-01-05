@@ -225,6 +225,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/)
    > Date: 16th - 17th April || Mode: In-person || Location: Prague, Czechia.
 
+-[Nerdearla Chile](https://nerdearla.cl/)
+  > Date: 16 - 18th April || Mode: Hybrid || Location: Santiago de Chile, Chile.
+
 - [GrafanaCon](https://grafana.com/events/grafanacon/)
    > Date: 20th - 22nd April || Mode: In-person || Location: Barcelona, Spain.
    
@@ -359,6 +362,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
   
 - [KubeCon + CloudNativeCon + OpenInfra China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
    > Date: 8th - 9th September || Mode: In-person || Location: Shanghai, China.
+
+-[Nerdearla Argentina](https://nerdear.la/)
+  > Date: 22 - 26th September || Mode: Hybrid || Location: Buenos Aires, Argentina.
    
 - [Automotive Grade Linux All Member Meeting](https://events.linuxfoundation.org/agl-amm-europe/)
    > Date: 30th September - 1st October || Mode: In-person || Location: Berlin, Germany.
@@ -405,6 +411,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
    
 - [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/)
    > Date: 9th - 12th November || Mode: In-person || Location: Salt Lake City, Utah, USA.
+
+-[Nerdearla Mexico](https://nerdearla.mx/)
+  > Date: TBD November || Mode: Hybrid || Location: Mexico City, Mexico.
 
 </details>
 
