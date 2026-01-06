@@ -366,7 +366,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [KubeCon + CloudNativeCon + OpenInfra China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
    > Date: 8th - 9th September || Mode: In-person || Location: Shanghai, China.
 
--[Nerdearla Argentina](https://nerdear.la/)
+- [Nerdearla Argentina](https://nerdear.la/)
   > Date: 22 - 26th September || Mode: Hybrid || Location: Buenos Aires, Argentina.
    
 - [Automotive Grade Linux All Member Meeting](https://events.linuxfoundation.org/agl-amm-europe/)
@@ -415,7 +415,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/)
    > Date: 9th - 12th November || Mode: In-person || Location: Salt Lake City, Utah, USA.
 
--[Nerdearla Mexico](https://nerdearla.mx/)
+- [Nerdearla Mexico](https://nerdearla.mx/)
   > Date: TBD November || Mode: Hybrid || Location: Mexico City, Mexico.
 
 </details>
