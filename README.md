@@ -147,13 +147,16 @@ The calendar is automatically updated daily, ensuring you always have the latest
    > Date: 16th - 17th March || Mode: In-person || Location: Berlin, Germany.
    
 - [High Performance Software Foundation Conference 2026](https://events.linuxfoundation.org/hpsf-conference/)
-   > Date: 16th - 17th March || Mode: In-person || Location: Chicago, Ilinois, USA.
+   > Date: 16th - 17th March || Mode: In-person || Location: Chicago, Illinois, USA.
    
 - [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/)
    > Date: 17th - 18th March || Mode: In-person || Location: Shanghai, China.
    
 - [Monkigras](https://monkigras.com/)
    > Date: 19th - 20th March || Mode: In-person || Location: London, UK.
+
+- [George Washington University Open Source Conference (GW OSCON)](https://ospo.gwu.edu/open-source-conference-gw-oscon)
+   > Date: 23rd - 24th March || Mode: In-person || Location: Washington D.C., USA.
 
 - [Open Source SecurityCon Europe](https://openssf.org/event/open-source-securitycon-2026/)
    > Date: 23rd March || Mode: In-person || Location: Amsterdam, The Netherlands.
