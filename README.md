@@ -386,8 +386,11 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 7th - 9th October || Mode: In-person || Location: Prague, Czechia.
    
-- [Embedded Linux Conference Euuope](https://events.linuxfoundation.org/embedded-linux-conference-europe/)
+- [Embedded Linux Conference Europe](https://events.linuxfoundation.org/embedded-linux-conference-europe/)
    > Date: 7th - 9th October || Mode: In-person || Location: Prague, Czechia.
+
+- [PyCon Greece 2026](https://2026.pycon.gr/)
+   > Date: 12th - 13th October || Mode: In-person || Location: Technopolis City of Athens, Athens, Greece.
    
 - [All Things Open](https://allthingsopen.org/events/all-things-open-2026)
    > Date: 18th - 20th October || Mode: In-person || Location: Raleigh, North Carolina, USA.
