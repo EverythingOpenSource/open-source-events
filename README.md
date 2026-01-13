@@ -288,7 +288,10 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [Neos Conference 2026](https://www.neoscon.io/)
    > Date: 1st - 3rd June || Mode: In-person || Location: Genohotel Karlsruhe, Germany.
-  
+
+- [OW2Con](https://www.ow2con.org/view/2026/)
+   > Date: 2nd - 3rd June || Mode: In-person || Location: Paris-Châtillon, France.
+
 - [Berlin Buzzwords](https://2026.berlinbuzzwords.de/)
    > Date: 7th - 9th June || Mode: In-person || Location: Berlin, Germany.
 
