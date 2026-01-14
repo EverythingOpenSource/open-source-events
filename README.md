@@ -81,6 +81,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
    
 - [EU Open Souce Policy Summit 2026](https://summit.openforumeurope.org/)
   > Date: 29th January || Mode: In-person || Location: Brussels, Belgium.
+
+- [CHAOSSCon EU 2026](https://chaoss.community/chaosscon-2026-eu/)
+  > Date: 29th January || Mode: In-person || Location: Brussels, Belgium.
   
 - [FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop](https://workshop.aboutcode.org/)
   > Date: 30th January || Mode: In-person || Location: Brussels, Belgium.
