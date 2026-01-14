@@ -213,6 +213,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [PyCon Lithuania](https://pycon.lt/2026)
    > Date: 8th - 10th April || Mode: In-person || Location: Vilnius, Lithuania.
 
+- [PyConf Hyderabad](https://2026.pyconfhyd.org/)
+  > Date: 14th - 15th March || Mode: In-person || Location: Engineering Staff College of India, Hyderabad, India.
+
 - [VulnCon 2026](https://www.first.org/conference/vulncon26/cfs)
    > Date: 13th - 16th April || Mode: In-person || Location: Paradise Valley, Scottsdale, Arizona, USA.
 
