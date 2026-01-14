@@ -145,6 +145,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [Zephyr at Embedded World Exhibition & Conference](https://zephyrproject.org/event/embedded-world-exhibition-conference-nuremberg-germany-2026/)
    > Date: 10th - 12th March || Mode: In-person || Location: Nuremberg, Germany.
+
+- [PyConf Hyderabad](https://2026.pyconfhyd.org/)
+  > Date: 14th - 15th March || Mode: In-person || Location: Engineering Staff College of India, Hyderabad, India.
    
 - [FOSS Backstage](https://26.foss-backstage.de/)
    > Date: 16th - 17th March || Mode: In-person || Location: Berlin, Germany.
