@@ -143,6 +143,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [FOSSASIA Summit](https://eventyay.com/e/88882f3e)
    > Date: 9th - 10th March || Mode: In-person || Location: Bankok, Thailand.
 
+- [PyAI Conf](https://pyai.events/)
+   > Date: 10th March || Mode: In-person || Location: Shack15, Ferry Building, San Francisco, USA.
+
 - [Zephyr at Embedded World Exhibition & Conference](https://zephyrproject.org/event/embedded-world-exhibition-conference-nuremberg-germany-2026/)
    > Date: 10th - 12th March || Mode: In-person || Location: Nuremberg, Germany.
 
