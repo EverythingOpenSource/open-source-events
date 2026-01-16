@@ -404,6 +404,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Embedded Linux Conference Europe](https://events.linuxfoundation.org/embedded-linux-conference-europe/)
    > Date: 7th - 9th October || Mode: In-person || Location: Prague, Czechia.
 
+- [Community Over Code (The Apache Software Foundation)](https://communityovercode.org/)
+   > Date: 11th - 14th October || Mode: In-person || Location: Glasgow, Scotland.
+
 - [PyCon Greece 2026](https://2026.pycon.gr/)
    > Date: 12th - 13th October || Mode: In-person || Location: Technopolis City of Athens, Athens, Greece.
    
