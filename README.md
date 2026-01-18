@@ -286,6 +286,10 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Observability Summit North America](https://events.linuxfoundation.org/observability-summit-north-america/)
    > Date: 21st - 22nd May || Mode: In-person || Location: Minneapolis, Minnesota, USA.
 
+- [Raleigh Day of Data 2026](https://sessionize.com/ral-dod-2026/)
+   > Date: 23rd May || Mode: In-person || Location: Duke Health, 14 Moore Dr
+Durham, North Carolina,, USA.
+
 - [Platmosphere Chapter 2026 Master the Vibe](https://platmosphere.com/)
    > Date: 26th May || Mode: In-person || Location: Milan, Italy.
 
