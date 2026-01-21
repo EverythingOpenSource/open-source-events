@@ -243,6 +243,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [PyTexas](https://www.pytexas.org/2026/)
    > Date: 17th - 19th April || Mode: Hybrid || Location: Austin, Texas.
 
+- [PyTorch Conference Europe](https://events.linuxfoundation.org/pytorch-conference-europe/)
+  > Date: 7th - 8th April || Mode: In-person || Location: Paris, France.
+
 - [Nerdearla Chile](https://nerdearla.cl/)
   > Date: 16 - 18th April || Mode: Hybrid || Location: Santiago de Chile, Chile.
 
