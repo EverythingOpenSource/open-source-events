@@ -354,12 +354,18 @@ Durham, North Carolina,, USA.
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
 
+- [SciPy 2026](https://www.scipy2026.scipy.org/)
+   > Date: 13th - 19th July || Mode: In-person || Location: Minneapolis, Minnesota, USA.
+
 - [DroidCon](https://usa.droidcon.com/)
    > Date: 16th - 17th July || Mode: In-person || Location: Orlando, Florida, USA.
 
 - [FlutterCon](https://www.flutterconusa.dev/)
    > Date: 16th - 17th July || Mode: In-person || Location: Orlando, Florida, USA.
-  
+
+- [EuroSciPy 2026](https://euroscipy.org/)
+   > Date: 18th - 23rd July || Mode: In-person || Location: Krakow, Poland.
+
 - [Open Source Days](https://events.linuxfoundation.org/open-source-days/)
    > Date: 19th July || Mode: Hybrid || Location: Los Angeles, California, USA.
      
