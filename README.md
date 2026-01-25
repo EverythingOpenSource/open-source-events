@@ -331,6 +331,9 @@ Durham, North Carolina,, USA.
    
 - [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
    > Date: 16th - 17th June || Mode: In-person || Location: Mumbai, India.
+
+- [BSDCan](https://www.bsdcan.org/2026/)
+   > Date: 17th - 20th June || Mode: In-person || Location: Ottawa, Canada.
    
 - [DevConf.CZ](https://www.devconf.info/cz/)
    > Date: 18th - 20th June || Mode: In-person || Location: Brno, Czechia.
