@@ -341,6 +341,9 @@ Durham, North Carolina,, USA.
 - [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/)
    > Date: 18th - 19th June || Mode: In-person || Location: Mumbai, India.
    
+- [Galaxy Community Conference](https://galaxyproject.org/events/gcc2026/)
+   > Date: 22nd - 26th June || Mode: In-person || Location: Clermont-Ferrand, France.
+   
 - [UN Open Source Week](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
    > Date: 22nd - 26th June || Mode: In-person || Location: New York City, New York, USA.
    
