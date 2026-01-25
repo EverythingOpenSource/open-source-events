@@ -311,6 +311,9 @@ Durham, North Carolina,, USA.
 - [OW2Con](https://www.ow2con.org/view/2026/)
    > Date: 2nd - 3rd June || Mode: In-person || Location: Paris-Châtillon, France.
 
+- [PyData London 2026](https://pydata.org/london2026/home)
+   > Date: 5th - 7th June || Mode: In-person || Location: Convene Sancroft, St. Paul's, England.
+
 - [Berlin Buzzwords](https://2026.berlinbuzzwords.de/)
    > Date: 7th - 9th June || Mode: In-person || Location: Berlin, Germany.
 
