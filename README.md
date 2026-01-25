@@ -283,6 +283,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Beethoven Sprint 2026](https://plone.org/news-and-events/events/sprints/beethoven-sprint-2026)
    > Date: 18th - 22nd May || Mode: In-person || Location: kitconcept office, Bonn, Germany.
 
+- [PGConf.Dev 2026](https://2026.pgconf.dev/)
+   > Date: 19th - 22nd May || Mode: In-person || Location: Vancouver, BC, Canada.
+
 - [OpenSSF Community Day North America 2026](https://openssf.org/event/openssf-community-day-north-america-2026/)
    > Date: 21st May || Mode: In-person || Location: Minneapolis, Minnesota.
    
