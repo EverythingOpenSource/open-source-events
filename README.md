@@ -257,6 +257,10 @@ The calendar is automatically updated daily, ensuring you always have the latest
    
 - [LinuxFest Northwest](https://www.linuxfestnorthwest.org/)
    > Date: 24th - 26th April || Mode: In-person || Location: Bellingham, Washington, USA.
+
+- [Stackconf](https://stackconf.eu/)
+   > Date: 28th - 29th April || Mode: In-person || Location: Munich, Germany.
+
 </details>
 
 <details open>
@@ -420,6 +424,9 @@ Durham, North Carolina,, USA.
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
+ - [Open Tech Day](https://opentechday.de/)
+   > Date: 1st October || Mode: In-person || Location: Nuremberg, Germany.
+
 - [FlutterCon Europe](https://www.nextappcon.com/fluttercon)
    > Date: 7th - 9th October || Mode: In-person || Location: Berlin, Germany.
 
@@ -463,6 +470,9 @@ Durham, North Carolina,, USA.
    
 - [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/)
    > Date: 9th - 12th November || Mode: In-person || Location: Salt Lake City, Utah, USA.
+
+- [Open Source Monitoring Conference](https://osmc.de/)
+  > Date: 17th - 19th November || Mode: In-person || Location: Nuremberg, Germany.
 
 - [Nerdearla Mexico](https://nerdearla.mx/)
   > Date: TBD November || Mode: Hybrid || Location: Mexico City, Mexico.
