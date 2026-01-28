@@ -272,6 +272,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Write the Docs](https://www.writethedocs.org/conf/portland/2026/)
   > Date: 3rd - 5th May || Mode: In-person || Location: Portland, Oregon, USA.
 
+- [IndabaX Nigeria](https://indabaxng.github.io/)
+  > Date: 11th - 14th May || Mode: In-person || Location: University of Ibadan, Oyo State, Nigeria.
+
 - [Red Hat Summit](https://www.redhat.com/en/summit)
   > Date: 11th - 14th May || Mode: In-person || Location: Atlanta, Georgia, USA.
 
