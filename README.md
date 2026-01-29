@@ -399,6 +399,9 @@ Durham, North Carolina,, USA.
 - [DefCon Training](https://training.defcon.org/pages/2026-las-vegas-call-for-trainers)
   > Date: 8th - 11th August || Mode: In-person || Location: Las Vegas, Nevada, USA.
 
+- [JuliaCon 2026](https://juliacon.org/2026/)
+  > Date: 10th - 15th August || Mode: In-person || Location: Johannes Gutenberg University Mainz, Rhineland Palatinate, Germany.  
+
 - [PyCon Australia](https://2026.pycon.org.au/)
   > Date: 26th - 30th August || Mode: In-person || Location: Brisbane, Australia.
 
