@@ -403,8 +403,11 @@ Durham, North Carolina,, USA.
 - [KubeCon + CloudNativeCon + OpenInfra China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
    > Date: 8th - 9th September || Mode: In-person || Location: Shanghai, China.
 
+- [CppCon 2026](https://cppcon.org/about/)
+  > Date: 12th- 18th September || Mode: Hybrid || Location: Aurora, Colorado, USA.
+
 - [Nerdearla Argentina](https://nerdear.la/)
-  > Date: 22 - 26th September || Mode: Hybrid || Location: Buenos Aires, Argentina.
+  > Date: 22nd - 26th September || Mode: Hybrid || Location: Buenos Aires, Argentina.
    
 - [Automotive Grade Linux All Member Meeting](https://events.linuxfoundation.org/agl-amm-europe/)
    > Date: 30th September - 1st October || Mode: In-person || Location: Berlin, Germany.
