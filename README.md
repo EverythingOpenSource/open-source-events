@@ -422,6 +422,9 @@ Durham, North Carolina,, USA.
 - [CppCon 2026](https://cppcon.org/about/)
   > Date: 12th- 18th September || Mode: Hybrid || Location: Aurora, Colorado, USA.
 
+- [posit::conf(2026)](https://posit.co/conference/)
+  > Date: 14th - 16th September || Mode: Hybrid || Location: Houston, Texas, USA.
+
 - [Nerdearla Argentina](https://nerdear.la/)
   > Date: 22nd - 26th September || Mode: Hybrid || Location: Buenos Aires, Argentina.
    
