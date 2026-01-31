@@ -427,6 +427,9 @@ Durham, North Carolina,, USA.
 
 - [Nerdearla Argentina](https://nerdear.la/)
   > Date: 22nd - 26th September || Mode: Hybrid || Location: Buenos Aires, Argentina.
+
+- [BlenderCon](https://conference.blender.org/2026/)
+  > Date: 23rd - 25th September || Mode: In-person || Location: Amsterdam, Netherlands.
    
 - [Automotive Grade Linux All Member Meeting](https://events.linuxfoundation.org/agl-amm-europe/)
    > Date: 30th September - 1st October || Mode: In-person || Location: Berlin, Germany.
