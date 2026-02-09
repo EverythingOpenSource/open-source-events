@@ -396,6 +396,9 @@ Durham, North Carolina,, USA.
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
 
+- [UbuCon Asia x COSCUP 2026](https://coscup.org/2026/en)
+  > Date: 8th - 9th August || Mode: In-person || Location: Taipei, Taiwan.
+
 - [DefCon Training](https://training.defcon.org/pages/2026-las-vegas-call-for-trainers)
   > Date: 8th - 11th August || Mode: In-person || Location: Las Vegas, Nevada, USA.
 
