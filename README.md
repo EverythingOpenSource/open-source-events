@@ -212,6 +212,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [WasmCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
    > Date: 23rd March || Mode: In-person || Location: Amsterdam, The Netherlands.
 
+- [UbuCon Kenya 2026](https://events.canonical.com/event/147/)
+   > Date: 27th-28th March || Mode: In-person || Location: United States International University - Africa Nairobi, Kenya.
+
 - [Chemnitz Linux Days](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
    > Date: 29th - 30th March || Mode: In-person || Location: Chemnitzer, Germany.
 
