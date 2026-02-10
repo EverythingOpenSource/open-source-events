@@ -46,7 +46,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> January :sparkles: </h2></summary>
   
 - [HackerTrain](https://hackertrain.org/hackertrain-to-fosdem-2026-call-for-participation.html)
