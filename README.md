@@ -137,6 +137,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Laracon EU](https://laracon.eu/)
    > Date: 2nd - 3rd March || Mode: In-person || Location: Amsterdam, Netherlands.
 
+- [Python Unplugged](https://lp.jetbrains.com/python-unplugged/)
+   > Date: 4th March || Mode: Online || Location: Global (Open to everyone).
+
 - [SCaLE 23x](https://www.socallinuxexpo.org/scale/23x/)
    > Date: 5th - 8th March || Mode: In-person || Location: Pasadena, California, USA.
 
