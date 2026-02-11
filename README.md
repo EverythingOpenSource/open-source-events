@@ -369,6 +369,9 @@ Durham, North Carolina,, USA.
 - [OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/)
    > Date: 22nd - 26th June || Mode: In-person || Location: Vienna, Austria.
 
+- [Ghana Data Science Summit (IndabaX Ghana)](https://datasciencenet.org/)
+   > Date: 24th - 26th June || Mode: In-person || Location: Ho Technical University, Volta Region, Ghana.
+
 - [Open Source in Finance Forum London](https://events.linuxfoundation.org/open-source-finance-forum-london/)
    > Date: 25th June || Mode: In-person || Location: London, England.
    
