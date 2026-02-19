@@ -374,6 +374,9 @@ Durham, North Carolina,, USA.
 
 - [Open Source Days](https://events.linuxfoundation.org/open-source-days/)
    > Date: 19th July || Mode: Hybrid || Location: Los Angeles, California, USA.
+
+- [PyOhio 2026](https://www.pyohio.org/2026/)
+   > Date: 25th - 26th July || Mode: In-person || Location: Cleveland State University Student Center in Cleveland, Ohio, USA.   
      
 - [KubeCon + CloudNativeCon Japan](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)
    > Date: 29th - 30th July || Mode: In-person || Location: Yokohama, Japan.
