@@ -460,6 +460,9 @@ Durham, North Carolina,, USA.
 - [FlutterCon Europe](https://www.nextappcon.com/fluttercon)
    > Date: 7th - 9th October || Mode: In-person || Location: Berlin, Germany.
 
+- [PyCon Estonia](https://pycon.ee/)
+   > Date: 8th - 9th October || Mode: In-person || Location: Tallinn, Estonia.
+
 - [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 7th - 9th October || Mode: In-person || Location: Prague, Czechia.
    
