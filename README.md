@@ -311,6 +311,9 @@ Durham, North Carolina,, USA.
 - [OW2Con](https://www.ow2con.org/view/2026/)
    > Date: 2nd - 3rd June || Mode: In-person || Location: Paris-Châtillon, France.
 
+- [PG DATA 2026](https://2026.pg-data.org/)
+   > Date: 4th - 5th June || Mode: In-person || Location: Loyola University Water Tower Campus in Chicago, Illinois, USA.
+
 - [Berlin Buzzwords](https://2026.berlinbuzzwords.de/)
    > Date: 7th - 9th June || Mode: In-person || Location: Berlin, Germany.
 
