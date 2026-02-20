@@ -143,6 +143,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [SCaLE 23x](https://www.socallinuxexpo.org/scale/23x/)
    > Date: 5th - 8th March || Mode: In-person || Location: Pasadena, California, USA.
 
+- [Women+ in Open Source Day](https://luma.com/qcqlia4g?tk=TbragU)
+   > Date: 9th March || Mode: In-person || Location: 135 Constitution Dr- Menlo Park, California, USA.
+
 - [FOSSASIA Summit](https://eventyay.com/e/88882f3e)
    > Date: 9th - 10th March || Mode: In-person || Location: Bankok, Thailand.
 
