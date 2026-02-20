@@ -260,7 +260,10 @@ The calendar is automatically updated daily, ensuring you always have the latest
    
 - [Open Community Experience (OCX) 2026](https://www.ocxconf.org/event/2026/summary)
    > Date: 21st - 23rd April || Mode: In-person || Location: Brussels, Belgium.
-   
+
+- [Django Girls Mombasa](https://djangogirls.org/en/mombasa/)
+   > Date: 24th April || Mode: In-person || Location: Mombasa, Kenya.
+
 - [LinuxFest Northwest](https://www.linuxfestnorthwest.org/)
    > Date: 24th - 26th April || Mode: In-person || Location: Bellingham, Washington, USA.
 
