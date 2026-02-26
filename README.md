@@ -173,6 +173,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [PythonAsia](https://2026.pythonasia.org/)
    > Date: 21st - 23rd March || Mode: In-person || Location: De La Salle University (DLSU), Manila, Philippines.
 
+- [Django Girls Maputo 2026](https://djangogirls.org/maputo/)
+   > Date: 21st March || Mode: In-person || Location: Inovation Space (Eduardo Mondlane University), Maputo, Mozambique.
+
 - [George Washington University Open Source Conference (GW OSCON)](https://ospo.gwu.edu/open-source-conference-gw-oscon)
    > Date: 23rd - 24th March || Mode: In-person || Location: Washington D.C., USA.
 
