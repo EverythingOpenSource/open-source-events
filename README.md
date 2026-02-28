@@ -344,6 +344,9 @@ Durham, North Carolina,, USA.
 - [PyData London 2026](https://pydata.org/london2026/home)
    > Date: 5th - 7th June || Mode: In-person || Location: Convene Sancroft, St. Paul's, England.
 
+- [Hong Kong Open Source Conference (HKOSCon) 2026](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42)
+   > Date: 6th June || Mode: In-person || Location: HKIIT Tsing Yi (IVE Tsing Yi Campus), Hong Kong.
+
 - [Berlin Buzzwords](https://2026.berlinbuzzwords.de/)
    > Date: 7th - 9th June || Mode: In-person || Location: Berlin, Germany.
 
