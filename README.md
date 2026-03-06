@@ -477,6 +477,9 @@ Durham, North Carolina,, USA.
  - [Open Tech Day](https://opentechday.de/)
    > Date: 1st October || Mode: In-person || Location: Nuremberg, Germany.
 
+ - [Tiny Ruby Conf. 2026](https://helsinkiruby.fi/tinyruby/)
+   > Date: 1st October || Mode: In-person || Location: Helsinki, Finland.
+
 - [FlutterCon Europe](https://www.nextappcon.com/fluttercon)
    > Date: 7th - 9th October || Mode: In-person || Location: Berlin, Germany.
 
