@@ -290,7 +290,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Write the Docs](https://www.writethedocs.org/conf/portland/2026/)
   > Date: 3rd - 5th May || Mode: In-person || Location: Portland, Oregon, USA.
 
-- [Replay 2026 |Temporal](https://www.writethedocs.org/conf/portland/2026/)
+- [Replay 2026 |Temporal](https://replay.temporal.io/)
   > Date: 5th - 7th May || Mode: In-person || Location: Moscone South - San Francisco, California, USA.
 
 - [IndabaX Nigeria](https://indabaxng.github.io/)
