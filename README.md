@@ -497,6 +497,9 @@ Durham, North Carolina,, USA.
 
 - [PyCon Greece 2026](https://2026.pycon.gr/)
    > Date: 12th - 13th October || Mode: In-person || Location: Technopolis City of Athens, Athens, Greece.
+
+- [Joomla! World Conference 2026](https://conference.joomla.org/)
+   > Date: 16th - 18th October || Mode: Hybrid || Location: Kongresshotel Potsdam, Berlin, Germany.
    
 - [All Things Open](https://allthingsopen.org/events/all-things-open-2026)
    > Date: 18th - 20th October || Mode: In-person || Location: Raleigh, North Carolina, USA.
