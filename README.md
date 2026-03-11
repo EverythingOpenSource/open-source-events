@@ -443,6 +443,9 @@ Durham, North Carolina,, USA.
 - [JuliaCon 2026](https://juliacon.org/2026/)
   > Date: 10th - 15th August || Mode: In-person || Location: Johannes Gutenberg University Mainz, Rhineland Palatinate, Germany.  
 
+- [Carolina Code Conference](https://blog.carolina.codes/p/2026-event-details-and-registration)
+  > Date: 14th - 15th August || Mode: In-person || Location: Flywheel Coworking Greenville, South Carolina.
+
 - [PyCon Australia](https://2026.pycon.org.au/)
   > Date: 26th - 30th August || Mode: In-person || Location: Brisbane, Australia.
 
