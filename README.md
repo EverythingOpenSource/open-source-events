@@ -224,6 +224,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [WasmCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
    > Date: 23rd March || Mode: In-person || Location: Amsterdam, The Netherlands.
 
+- [OpenChain and Friends 2026](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+   > Date: 24th - 25th March || Mode: In-person || Location: Stuttgart, Germany.
+
 - [UbuCon Kenya 2026](https://events.canonical.com/event/147/)
    > Date: 27th-28th March || Mode: In-person || Location: United States International University - Africa Nairobi, Kenya.
 
