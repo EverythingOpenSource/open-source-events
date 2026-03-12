@@ -237,6 +237,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
 
+- [Frappe Build 2026](https://events.frappe.io/events/frappe-build-2026)
+   > Date: 2nd - 3rd April || Mode: In-person || Location: Mysore Auditorium, Mumbai.
+
 - [PyCon Lithuania](https://pycon.lt/2026)
    > Date: 8th - 10th April || Mode: In-person || Location: Vilnius, Lithuania.
 
