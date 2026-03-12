@@ -246,6 +246,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [VulnCon 2026](https://www.first.org/conference/vulncon26/cfs)
    > Date: 13th - 16th April || Mode: In-person || Location: Paradise Valley, Scottsdale, Arizona, USA.
 
+- [Open Source in Finance Forum (OSFF)](https://events.linuxfoundation.org/open-source-finance-forum-toronto/)
+   > Date: 14th April || Mode: In-person || Location: Toronto, Canada.
+
 - [PyCon DE & PyData 2026](https://2026.pycon.de/)
    > Date: 14th - 16th April || Mode: In-person || Location: Frankfurt, Germany.
 
