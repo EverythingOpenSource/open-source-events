@@ -446,6 +446,9 @@ Durham, North Carolina,, USA.
 - [Carolina Code Conference](https://blog.carolina.codes/p/2026-event-details-and-registration)
   > Date: 14th - 15th August || Mode: In-person || Location: Flywheel Coworking Greenville, South Carolina.
 
+- [DjangoCon US](https://2026.djangocon.us/)
+  > Date: 24th - 28th August || Mode: Hybrid || Location: Chicago, Illinois, USA.
+
 - [PyCon Australia](https://2026.pycon.org.au/)
   > Date: 26th - 30th August || Mode: In-person || Location: Brisbane, Australia.
 
