@@ -530,6 +530,9 @@ Durham, North Carolina,, USA.
 - [Open Source in Finance Forum New York](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
    > Date: 4th - 5th November || Mode: In-person || Location: New York City, New York, USA.
    
+- [SeaGL (the Seattle GNU/Linux Conference)](https://seagl.org/)
+   > Date: 6th - 7th November || Mode: In-person & Virtual || Location: Seattle, Washington, USA.
+   
 - [Texas Linux Fest](https://2026.texaslinuxfest.org/)
    > Date: 6th - 7th November || Mode: In-person || Location: Austin, Texas, USA.
    
