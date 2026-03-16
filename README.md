@@ -240,6 +240,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Frappe Build 2026](https://events.frappe.io/events/frappe-build-2026)
    > Date: 2nd - 3rd April || Mode: In-person || Location: Mysore Auditorium, Mumbai.
 
+- [MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/)
+   > Date: 2nd - 3rd April || Mode: In-person || Location: New York City, New York, USA.
+
 - [PyCon Lithuania](https://pycon.lt/2026)
    > Date: 8th - 10th April || Mode: In-person || Location: Vilnius, Lithuania.
 
@@ -454,6 +457,9 @@ Durham, North Carolina,, USA.
 
 - [Carolina Code Conference](https://blog.carolina.codes/p/2026-event-details-and-registration)
   > Date: 14th - 15th August || Mode: In-person || Location: Flywheel Coworking Greenville, South Carolina.
+
+- [PyCon Togo](https://pycontg.pytogo.org/)
+  > Date: 21st - 23rd August || Mode: Hybrid || Location: Lome, Togo.
 
 - [DjangoCon US](https://2026.djangocon.us/)
   > Date: 24th - 28th August || Mode: Hybrid || Location: Chicago, Illinois, USA.
