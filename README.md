@@ -240,6 +240,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Frappe Build 2026](https://events.frappe.io/events/frappe-build-2026)
    > Date: 2nd - 3rd April || Mode: In-person || Location: Mysore Auditorium, Mumbai.
 
+- [MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/)
+   > Date: 2nd - 3rd April || Mode: In-person || Location: New York City, New York, USA.
+
 - [PyCon Lithuania](https://pycon.lt/2026)
    > Date: 8th - 10th April || Mode: In-person || Location: Vilnius, Lithuania.
 
