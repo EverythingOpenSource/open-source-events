@@ -93,7 +93,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
   
 </details>
 
-<details open>
+<details>
  <summary><h2> February :sparkles: </h2></summary>
   
 - [Apertre 3.0](https://apertre.resourcio.in/)
