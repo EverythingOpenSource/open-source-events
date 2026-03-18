@@ -443,6 +443,9 @@ Durham, North Carolina,, USA.
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
 
+- [Deep Learning Indaba 2026](https://deeplearningindaba.com/2026/)
+  > Date: 2nd - 7th August || Mode: Hybrid || Location: Pan-Atlantic Univeristy, Lagos, Nigeria.
+
 - [UbuCon Asia x COSCUP 2026](https://coscup.org/2026/en)
   > Date: 8th - 9th August || Mode: In-person || Location: Taipei, Taiwan.
 
