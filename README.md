@@ -391,6 +391,9 @@ Durham, North Carolina,, USA.
    
 - [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/)
    > Date: 18th - 19th June || Mode: In-person || Location: Mumbai, India.
+
+- [Beam Summit](https://sessionize.com/beamsummit-2026/)
+   > Date: 22nd - 23rd June || Mode: In-person || Location: St. John's Terminal New York City, New York, USA.
    
 - [Galaxy Community Conference](https://galaxyproject.org/events/gcc2026/)
    > Date: 22nd - 26th June || Mode: In-person || Location: Clermont-Ferrand, France.
