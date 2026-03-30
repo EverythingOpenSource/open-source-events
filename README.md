@@ -131,7 +131,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> March :sparkles: </h2></summary>
   
 - [Laracon EU](https://laracon.eu/)
@@ -585,5 +585,13 @@ Durham, North Carolina,, USA.
 
 - [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/)
    > Date: 10th - 11th December || Mode: In-person || Location: Tokyo, Japan.
+
+</details>
+
+# <p align="center"> Open Source Events to attend in 2026 :sparkles: </p>
+
+<details open>
+ <summary><h2> January :sparkles: </h2></summary>
+
 
 </details>
