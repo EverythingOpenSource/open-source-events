@@ -588,7 +588,7 @@ Durham, North Carolina,, USA.
 
 </details>
 
-# <p align="center"> Open Source Events to attend in 2026 :sparkles: </p>
+# <p align="center"> Open Source Events to attend in 2027 :sparkles: </p>
 
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
