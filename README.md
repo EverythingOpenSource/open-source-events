@@ -351,6 +351,9 @@ Durham, North Carolina,, USA.
 - [PyCon Italia](https://2026.pycon.it/en)
   > Date: 27th - 30th May || Mode: In-person || Location: Bologna, Italy.
 
+- [OpenSearch Project - Milan User Group](https://www.meetup.com/opensearch-project-milan/events/314314927)
+   > Date: 27th May || Mode: In-person || Location: Milan, Italy.
+
  
 </details>
 
@@ -365,6 +368,10 @@ Durham, North Carolina,, USA.
 
 - [PG DATA 2026](https://2026.pg-data.org/)
    > Date: 4th - 5th June || Mode: In-person || Location: Loyola University Water Tower Campus in Chicago, Illinois, USA.
+
+- [OpenSearch Project - Berlin User Group](https://www.meetup.com/opensearch-project-berlin/events/314754091)
+   > Date: 5th June || Mode: In-person || Location: Berlin, Germany.
+
 - [PyData London 2026](https://pydata.org/london2026/home)
    > Date: 5th - 7th June || Mode: In-person || Location: Convene Sancroft, St. Paul's, England.
 
@@ -374,11 +381,20 @@ Durham, North Carolina,, USA.
 - [Berlin Buzzwords](https://2026.berlinbuzzwords.de/)
    > Date: 7th - 9th June || Mode: In-person || Location: Berlin, Germany.
 
+- [Retrieve. Remember. Reason – with Women of Search](https://luma.com/xrf6httx)
+   > Date: 9th June || Mode: In-person || Location: Berlin, Germany.
+
 - [Pole Position Sprint](https://plone.org/news-and-events/events/sprints/pole-position-sprint-2026)
    > Date: 8th - 12th June || Mode: In-person || Location: Kerpen, Germany.
 
 - [International PhP Conference](https://phpconference.com/berlin-en/)
    > Date: 8th - 12th June || Mode: Hybrid || Location: Maritim proArte Berlin, Germany.
+
+- [OpenSearch Project - Karlsruhe-Pforzheim User Group](https://www.meetup.com/opensearch-project-pforzheim/events/314037535)
+   > Date: 10th June || Mode: In-person || Location: Karlsruhe, Germany.
+
+- [OpenSearch Project - Vienna User Group](https://www.meetup.com/opensearch-project-vienna/events/314292750/)
+   > Date: 10th June || Mode: In-person || Location: Vienna, Austria.
 
 - [Umbraco Codegarden](https://codegarden.umbraco.com/)
    > Date: 10th - 11th June || Mode: In-person || Location: Copenhagen, Denmark.
@@ -397,6 +413,9 @@ Durham, North Carolina,, USA.
    
 - [DevConf.CZ](https://www.devconf.info/cz/)
    > Date: 18th - 20th June || Mode: In-person || Location: Brno, Czechia.
+
+- [OpenSearch Project - Seoul User Group](https://www.meetup.com/opensearch-project-seoul/events/314710978/)
+   > Date: 18th June || Mode: In-person || Location: Seoul, Korea.
    
 - [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/)
    > Date: 18th - 19th June || Mode: In-person || Location: Mumbai, India.
