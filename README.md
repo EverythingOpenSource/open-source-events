@@ -513,7 +513,10 @@ Durham, North Carolina,, USA.
  <summary><h2> September :sparkles: </h2></summary>
   
 - [KubeCon + CloudNativeCon + OpenInfra China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
-   > Date: 8th - 9th September || Mode: In-person || Location: Shanghai, China.
+  > Date: 8th - 9th September || Mode: In-person || Location: Shanghai, China.
+
+- [Zeek Workshop Berkeley 2026](https://zeek.org/zeek-workshop-berkeley-2026/)
+  > Date: 10th - 11th September || Mode: In-person || Location: Berkeley, California, USA.
 
 - [CppCon 2026](https://cppcon.org/about/)
   > Date: 12th- 18th September || Mode: Hybrid || Location: Aurora, Colorado, USA.
