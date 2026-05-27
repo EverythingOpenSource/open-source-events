@@ -547,6 +547,9 @@ Durham, North Carolina,, USA.
  - [Tiny Ruby Conf. 2026](https://helsinkiruby.fi/tinyruby/)
    > Date: 1st October || Mode: In-person || Location: Helsinki, Finland.
 
+- [Open Source Conference Luxembourg](https://conference.opensource.lu)
+   > Date: 7th October || Mode: In-person || Location: Belval, Luxembourg.
+
 - [FlutterCon Europe](https://www.nextappcon.com/fluttercon)
    > Date: 7th - 9th October || Mode: In-person || Location: Berlin, Germany.
 
