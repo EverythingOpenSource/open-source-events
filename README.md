@@ -580,6 +580,9 @@ Durham, North Carolina,, USA.
 - [CityJS Athens](https://greece.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click)
   > Date: 21st 23rd October || Mode: In-person || Location: Athens War Museum, Athens, Greece.
 
+- [SeaGL (the Seattle GNU/Linux Conference)](https://seagl.org/)
+   > Date: 23rd - 24th October || Mode: In-person & Virtual || Location: Seattle, Washington, USA.
+   
 - [IBM TechXchange](https://www.ibm.com/community/ibm-techxchange-conference/)
    > Date: 26th - 29th October || Mode: In-person || Location: Atlanta, Georgia, USA.
   
@@ -590,9 +593,6 @@ Durham, North Carolina,, USA.
   
 - [Open Source in Finance Forum New York](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
    > Date: 4th - 5th November || Mode: In-person || Location: New York City, New York, USA.
-   
-- [SeaGL (the Seattle GNU/Linux Conference)](https://seagl.org/)
-   > Date: 6th - 7th November || Mode: In-person & Virtual || Location: Seattle, Washington, USA.
    
 - [Texas Linux Fest](https://2026.texaslinuxfest.org/)
    > Date: 6th - 7th November || Mode: In-person || Location: Austin, Texas, USA.
