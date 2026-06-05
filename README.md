@@ -237,7 +237,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
    > Date: 29th - 30th March || Mode: In-person || Location: Chemnitzer, Germany.
 
 </details>
-<details open>
+<details>
  <summary><h2> April :sparkles: </h2></summary>
 
 - [Frappe Build 2026](https://events.frappe.io/events/frappe-build-2026)
@@ -302,7 +302,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> May :sparkles: </h2></summary>
 
 - [FlutterFlow Developers Conference](https://www.ffdc.io/)
