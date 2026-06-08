@@ -465,6 +465,9 @@ Durham, North Carolina,, USA.
 
 - [Open Source Days](https://events.linuxfoundation.org/open-source-days/)
    > Date: 19th July || Mode: Hybrid || Location: Los Angeles, California, USA
+   
+- [Python Made Easy: Interactive Workshop for Beginners](https://instats.org/seminar/hands-on-python-for-beginners)
+  > Date: 21st - 22nd July  || Mode: Online || Location: Zoom
 
 - [PyData PyCon Yerevan 2026](https://pycon.am/)
    > Date: 24th - 25th July || Mode: In-person || Location: Yerevan, Armenia.   
