@@ -357,7 +357,7 @@ Durham, North Carolina,, USA.
  
 </details>
 
-<details open>
+<details>
  <summary><h2> June :sparkles: </h2></summary>
 
 - [Neos Conference 2026](https://www.neoscon.io/)
