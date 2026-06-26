@@ -599,7 +599,10 @@ Durham, North Carolina,, USA.
    
 - [Texas Linux Fest](https://2026.texaslinuxfest.org/)
    > Date: 6th - 7th November || Mode: In-person || Location: Austin, Texas, USA.
-   
+
+- [OpenFest 2026](https://openfest.org/2026/en/)
+   > Date: 7th - 8th November || Mode: In-person || Location: Sofia, Bulgaria.
+  
 - [Akademy 2026](https://akademy.kde.org/)
    > Date: 13th November || Mode: In-person || Location: Graz, Austria.
    
