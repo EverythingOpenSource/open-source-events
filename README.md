@@ -645,3 +645,25 @@ Durham, North Carolina,, USA.
 
 
 </details>
+
+<details open>
+ <summary><h2> February :sparkles: </h2></summary>
+
+ - TBD
+
+</details>
+
+<details open>
+ <summary><h2> March :sparkles: </h2></summary>
+
+ - TBD
+
+</details>
+
+<details open>
+ <summary><h2> April :sparkles: </h2></summary>
+
+ - Southern California Linux Expo - SCaLE 24x
+    > Date: 1st-4th April, 2027 || Mode: In-person || Location: Pasadena, CA, USA.
+
+</details>
