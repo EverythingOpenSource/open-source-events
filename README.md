@@ -663,7 +663,7 @@ Durham, North Carolina,, USA.
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
 
- - Southern California Linux Expo - SCaLE 24x
+ - [Southern California Linux Expo - SCaLE 24x](https://www.socallinuxexpo.org/)
     > Date: 1st-4th April, 2027 || Mode: In-person || Location: Pasadena, CA, USA.
 
 </details>
