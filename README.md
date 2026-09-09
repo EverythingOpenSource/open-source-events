@@ -595,6 +595,9 @@ Durham, North Carolina,, USA.
 
 - [SeaGL (the Seattle GNU/Linux Conference)](https://seagl.org/)
    > Date: 23rd - 24th October || Mode: In-person & Virtual || Location: Seattle, Washington, USA.
+
+- [22nd Linux Autumn](https://jesien.org/2026/en/)
+   > Date: 23rd - 25th October || Mode: In person & Virtual || Location: Kraków, Poland
    
 - [IBM TechXchange](https://www.ibm.com/community/ibm-techxchange-conference/)
    > Date: 26th - 29th October || Mode: In-person || Location: Atlanta, Georgia, USA.
