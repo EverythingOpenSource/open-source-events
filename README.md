@@ -545,6 +545,9 @@ Durham, North Carolina,, USA.
 - [BlenderCon](https://conference.blender.org/2026/)
   > Date: 23rd - 25th September || Mode: In-person || Location: Amsterdam, Netherlands.
    
+- [Django on the Med 2026](https://djangomed.eu/2026/)
+  > Date: 23rd - 25th September || Mode: In-person || Location: Pescara, Italy.
+   
 - [Automotive Grade Linux All Member Meeting](https://events.linuxfoundation.org/agl-amm-europe/)
    > Date: 30th September - 1st October || Mode: In-person || Location: Berlin, Germany.
 </details>
