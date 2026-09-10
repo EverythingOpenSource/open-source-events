@@ -445,7 +445,7 @@ Durham, North Carolina,, USA.
    > Date: 30th June || Mode: In-person || Location: Starnberg, Germany.    
 </details>
 
-<details open>
+<details>
  <summary><h2> July :sparkles: </h2></summary>
 
 - [SciPy 2026](https://www.scipy2026.scipy.org/)
@@ -477,7 +477,7 @@ Durham, North Carolina,, USA.
 
 </details>
 
-<details open>
+<details>
  <summary><h2> August :sparkles: </h2></summary>
 
 - [Deep Learning Indaba 2026](https://deeplearningindaba.com/2026/)
@@ -545,7 +545,7 @@ Durham, North Carolina,, USA.
 - [BlenderCon](https://conference.blender.org/2026/)
   > Date: 23rd - 25th September || Mode: In-person || Location: Amsterdam, Netherlands.
    
-- [Django on the Med 2026](https://djangomed.eu/2026/)
+- [Django on the Med 2026](https://djangomed.eu/)
   > Date: 23rd - 25th September || Mode: In-person || Location: Pescara, Italy.
    
 - [Automotive Grade Linux All Member Meeting](https://events.linuxfoundation.org/agl-amm-europe/)
