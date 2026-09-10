@@ -539,6 +539,9 @@ Durham, North Carolina,, USA.
 - [Nerdearla Argentina](https://nerdear.la/)
   > Date: 22nd - 26th September || Mode: Hybrid || Location: Buenos Aires, Argentina.
 
+- [Open Source Hardware Conference](https://www.oshop-network.de/konferenz-2026/)
+  > Date: 23rd - 24th September || Mode: In-person || Location: Halle (Saale), Germany.
+
 - [BlenderCon](https://conference.blender.org/2026/)
   > Date: 23rd - 25th September || Mode: In-person || Location: Amsterdam, Netherlands.
    
