@@ -599,6 +599,9 @@ Durham, North Carolina,, USA.
 - [CityJS Athens](https://greece.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click)
   > Date: 21st 23rd October || Mode: In-person || Location: Athens War Museum, Athens, Greece.
 
+-  [PyCon Panamá 2026](https://pycon.pa/2026/) 
+   > Date: 22nd - 23rd October || Mode: Hybrid || Location: Panama City, Panama.
+
 - [SeaGL (the Seattle GNU/Linux Conference)](https://seagl.org/)
    > Date: 23rd - 24th October || Mode: In-person & Virtual || Location: Seattle, Washington, USA.
 
