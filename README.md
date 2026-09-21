@@ -651,6 +651,9 @@ Durham, North Carolina,, USA.
 - [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/)
    > Date: 10th - 11th December || Mode: In-person || Location: Tokyo, Japan.
 
+- [SciPy India 2026 Conference](https://scipy.in/2026)
+   > Date: 19th - 20th December || Mode: In-person || Location: Chennai, India.
+
 </details>
 
 # <p align="center"> Open Source Events to attend in 2027 :sparkles: </p>
