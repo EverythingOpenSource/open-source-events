@@ -596,6 +596,9 @@ Durham, North Carolina,, USA.
 - [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/)
    > Date: 20th - 21st October || Mode: In-person || Location: San Jose, California, USA.
 
+- [Matrix Conference 2026](https://conference.matrix.org/)
+   > Date: 20th - 23st October || Mode: In-person || Location: Malmö, Sweden.
+
 - [CityJS Athens](https://greece.cityjsconf.org/?utm_source=cityjs_homecard&utm_medium=card&utm_campaign=card_click)
   > Date: 21st 23rd October || Mode: In-person || Location: Athens War Museum, Athens, Greece.
 
