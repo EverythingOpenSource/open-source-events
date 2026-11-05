@@ -687,4 +687,7 @@ Durham, North Carolina,, USA.
  - [Southern California Linux Expo - SCaLE 24x](https://www.socallinuxexpo.org/)
     > Date: 1st-4th April, 2027 || Mode: In-person || Location: Pasadena, CA, USA.
 
+ - [foss-north 2027](https://foss-north.se/2027/)
+    > Date: April 19-20, 2027 || Mode: In-person || Location: Gothenburg, Sweden
+
 </details>
