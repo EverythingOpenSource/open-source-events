@@ -518,7 +518,7 @@ Durham, North Carolina,, USA.
 
 </details>
 
-<details open>
+<details>
  <summary><h2> September :sparkles: </h2></summary>
   
 - [KubeCon + CloudNativeCon + OpenInfra China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/)
@@ -553,7 +553,7 @@ Durham, North Carolina,, USA.
 </details>
 
 
-<details open>
+<details>
  <summary><h2> October :sparkles: </h2></summary>
 
  - [Open Tech Day](https://opentechday.de/)
